@@ -1,0 +1,629 @@
+[
+  {
+    "score": 192,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2018,
+    "week": 4
+  },
+  {
+    "score": 185,
+    "team": {
+      "name": "American Craft Brewers",
+      "nickname": "Brewers",
+      "abbr": "ALE",
+      "org": "ALE"
+    },
+    "year": 2008,
+    "week": 2
+  },
+  {
+    "score": 184,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2007,
+    "week": 6
+  },
+  {
+    "score": 184,
+    "team": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "org": "THUR"
+    },
+    "year": 2013,
+    "week": 9
+  },
+  {
+    "score": 176.1,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2014,
+    "week": 13
+  },
+  {
+    "score": 176.1,
+    "team": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "org": "IS"
+    },
+    "year": 2018,
+    "week": 6
+  },
+  {
+    "score": 175,
+    "team": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "org": "TNS"
+    },
+    "year": 2007,
+    "week": 14
+  },
+  {
+    "score": 173.5,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2018,
+    "week": 10
+  },
+  {
+    "score": 173.3,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2015,
+    "week": 7
+  },
+  {
+    "score": 173.3,
+    "team": {
+      "name": "Capehart Bloods",
+      "nickname": "Bloods",
+      "abbr": "BIGD",
+      "org": "BIGD"
+    },
+    "year": 2013,
+    "week": "Rd 3"
+  },
+  {
+    "score": 172.5,
+    "team": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "org": "THUR"
+    },
+    "year": 2014,
+    "week": 8
+  },
+  {
+    "score": 171.6,
+    "team": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "org": "IS"
+    },
+    "year": 2018,
+    "week": 11
+  },
+  {
+    "score": 170.8,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2018,
+    "week": 11
+  },
+  {
+    "score": 170.7,
+    "team": {
+      "name": "Alaskan Pipeline",
+      "nickname": "Pipeline",
+      "abbr": "APL",
+      "org": "APL"
+    },
+    "year": 2016,
+    "week": 3
+  },
+  {
+    "score": 170,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2015,
+    "week": 13
+  },
+  {
+    "score": 169.5,
+    "team": {
+      "name": "American Craft Brewers",
+      "nickname": "Brewers",
+      "abbr": "ALE",
+      "org": "ALE"
+    },
+    "year": 2013,
+    "week": 2
+  },
+  {
+    "score": 168.8,
+    "team": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "org": "IS"
+    },
+    "year": 2015,
+    "week": 8
+  },
+  {
+    "score": 165.6,
+    "team": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "org": "STD"
+    },
+    "year": 2012,
+    "week": 9
+  },
+  {
+    "score": 165.5,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2016,
+    "week": 1
+  },
+  {
+    "score": 164.6,
+    "team": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "org": "IS"
+    },
+    "year": 2013,
+    "week": 1
+  },
+  {
+    "score": 163.8,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2014,
+    "week": 1
+  },
+  {
+    "score": 162,
+    "team": {
+      "name": "The Gash Lickers",
+      "nickname": "Lickers",
+      "abbr": "GASH",
+      "org": "LOG"
+    },
+    "year": 2007,
+    "week": 14
+  },
+  {
+    "score": 162,
+    "team": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "org": "THUR"
+    },
+    "year": 2011,
+    "week": 1
+  },
+  {
+    "score": 161.6,
+    "team": {
+      "name": "American Craft Brewers",
+      "nickname": "Brewers",
+      "abbr": "ALE",
+      "org": "ALE"
+    },
+    "year": 2013,
+    "week": 13
+  },
+  {
+    "score": 161,
+    "team": {
+      "name": "American Craft Brewers",
+      "nickname": "Brewers",
+      "abbr": "ALE",
+      "org": "ALE"
+    },
+    "year": 2010,
+    "week": 10
+  },
+  {
+    "score": 160.9,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2014,
+    "week": "Rd 1"
+  },
+  {
+    "score": 160.6,
+    "team": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "org": "STD"
+    },
+    "year": 2014,
+    "week": 8
+  },
+  {
+    "score": 159.2,
+    "team": {
+      "name": "Alaskan Pipeline",
+      "nickname": "Pipeline",
+      "abbr": "APL",
+      "org": "APL"
+    },
+    "year": 2016,
+    "week": 12
+  },
+  {
+    "score": 159,
+    "team": {
+      "name": "Seascape Slugs",
+      "nickname": "Slugs",
+      "abbr": "SLUG",
+      "org": "IS"
+    },
+    "year": 2011,
+    "week": 13
+  },
+  {
+    "score": 158.1,
+    "team": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "org": "THUR"
+    },
+    "year": 2012,
+    "week": 11
+  },
+  {
+    "score": 168,
+    "team": {
+      "name": "My Year + The Pats Year",
+      "nickname": "+ The Pats Year",
+      "abbr": "PATS",
+      "org": "THUR"
+    },
+    "year": 2009,
+    "week": 6
+  },
+  {
+    "score": 158,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2016,
+    "week": 7
+  },
+  {
+    "score": 157.5,
+    "team": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "org": "IS"
+    },
+    "year": 2018,
+    "week": 13
+  },
+  {
+    "score": 157.2,
+    "team": {
+      "name": "American Craft Brewers",
+      "nickname": "Brewers",
+      "abbr": "ALE",
+      "org": "ALE"
+    },
+    "year": 2012,
+    "week": 12
+  },
+  {
+    "score": 157.2,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2013,
+    "week": 2
+  },
+  {
+    "score": 157,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2018,
+    "week": "Rd 3"
+  },
+  {
+    "score": 156.4,
+    "team": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "org": "STD"
+    },
+    "year": 2016,
+    "week": 10
+  },
+  {
+    "score": 156,
+    "team": {
+      "name": "My Year + The Pats Year",
+      "nickname": "+ The Pats Year",
+      "abbr": "PATS",
+      "org": "THUR"
+    },
+    "year": 2009,
+    "week": "Rd 3"
+  },
+  {
+    "score": 155.2,
+    "team": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "org": "STD"
+    },
+    "year": 2012,
+    "week": "Rd 3"
+  },
+  {
+    "score": 154.9,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2016,
+    "week": 12
+  },
+  {
+    "score": 154,
+    "team": {
+      "name": "American Craft Brewers",
+      "nickname": "Brewers",
+      "abbr": "ALE",
+      "org": "ALE"
+    },
+    "year": 2009,
+    "week": 2
+  },
+  {
+    "score": 154,
+    "team": {
+      "name": "American Craft Brewers",
+      "nickname": "Brewers",
+      "abbr": "ALE",
+      "org": "ALE"
+    },
+    "year": 2011,
+    "week": 4
+  },
+  {
+    "score": 153.8,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2016,
+    "week": 10
+  },
+  {
+    "score": 153.6,
+    "team": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "org": "THUR"
+    },
+    "year": 2013,
+    "week": "Rd 2"
+  },
+  {
+    "score": 153.3,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2012,
+    "week": 10
+  },
+  {
+    "score": 153,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2011,
+    "week": 2
+  },
+  {
+    "score": 151.9,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2017,
+    "week": 7
+  },
+  {
+    "score": 151.5,
+    "team": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "org": "STD"
+    },
+    "year": 2015,
+    "week": 1
+  },
+  {
+    "score": 151.2,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2012,
+    "week": 3
+  },
+  {
+    "score": 151.1,
+    "team": {
+      "name": "Capehart Bloods",
+      "nickname": "Bloods",
+      "abbr": "BIGD",
+      "org": "BIGD"
+    },
+    "year": 2013,
+    "week": 4
+  },
+  {
+    "score": 151,
+    "team": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "org": "TNS"
+    },
+    "year": 2011,
+    "week": 5
+  },
+  {
+    "score": 150.8,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2015,
+    "week": 5
+  },
+  {
+    "score": 150.3,
+    "team": {
+      "name": "American Craft Brewers",
+      "nickname": "Brewers",
+      "abbr": "ALE",
+      "org": "ALE"
+    },
+    "year": 2015,
+    "week": 13
+  },
+  {
+    "score": 150.2,
+    "team": {
+      "name": "American Craft Brewers",
+      "nickname": "Brewers",
+      "abbr": "ALE",
+      "org": "ALE"
+    },
+    "year": 2017,
+    "week": 8
+  },
+  {
+    "score": 150.1,
+    "team": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "org": "TNS"
+    },
+    "year": 2013,
+    "week": 1
+  },
+  {
+    "score": 150,
+    "team": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "org": "TNS"
+    },
+    "year": 2010,
+    "week": 3
+  },
+  {
+    "score": 150,
+    "team": {
+      "name": "Danger Ross",
+      "nickname": "Ross",
+      "abbr": "DGR",
+      "org": "DGR"
+    },
+    "year": 2010,
+    "week": 10
+  }
+]

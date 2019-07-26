@@ -1,0 +1,130 @@
+[
+  {
+    "year": 2018,
+    "week": 4,
+    "winningTeam": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "score": 192
+    },
+    "losingTeam": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "score": 140.1
+    }
+  },
+  {
+    "year": 2018,
+    "week": 6,
+    "winningTeam": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "score": 176.1
+    },
+    "losingTeam": {
+      "name": "Capehart Bloods",
+      "nickname": "Bloods",
+      "abbr": "BIGD",
+      "score": 136.6
+    }
+  },
+  {
+    "year": 2010,
+    "week": 10,
+    "winningTeam": {
+      "name": "American Craft Brewers",
+      "nickname": "Brewers",
+      "abbr": "ALE",
+      "score": 161
+    },
+    "losingTeam": {
+      "name": "Danger Ross",
+      "nickname": "Ross",
+      "abbr": "DGR",
+      "score": 150
+    }
+  },
+  {
+    "year": 2015,
+    "week": 8,
+    "winningTeam": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "score": 168.8
+    },
+    "losingTeam": {
+      "name": "Alaskan Pipeline",
+      "nickname": "Pipeline",
+      "abbr": "APL",
+      "score": 140.7
+    }
+  },
+  {
+    "year": 2014,
+    "week": 8,
+    "winningTeam": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "score": 172.5
+    },
+    "losingTeam": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "score": 133.4
+    }
+  },
+  {
+    "year": 2013,
+    "week": 1,
+    "winningTeam": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "score": 150.1
+    },
+    "losingTeam": {
+      "name": "Alaskan Pipeline",
+      "nickname": "Pipeline",
+      "abbr": "APL",
+      "score": 148.6
+    }
+  },
+  {
+    "year": 2016,
+    "week": 1,
+    "winningTeam": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "score": 165.5
+    },
+    "losingTeam": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "score": 128.5
+    }
+  },
+  {
+    "year": 2007,
+    "week": 14,
+    "winningTeam": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "score": 175
+    },
+    "losingTeam": {
+      "name": "With Myself",
+      "nickname": "Myself",
+      "abbr": "ASS",
+      "score": 118
+    }
+  }
+]

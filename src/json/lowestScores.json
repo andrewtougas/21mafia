@@ -1,0 +1,541 @@
+[
+  {
+    "score": 30,
+    "team": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "org": "TNS"
+    },
+    "year": 2007,
+    "week": 6
+  },
+  {
+    "score": 59,
+    "team": {
+      "name": "Team Kennedy",
+      "nickname": "Kennedy",
+      "abbr": "KENN",
+      "org": "KENN"
+    },
+    "year": 2007,
+    "week": 8
+  },
+  {
+    "score": 58,
+    "team": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "org": "STD"
+    },
+    "year": 2007,
+    "week": "Rd 1"
+  },
+  {
+    "score": 57,
+    "team": {
+      "name": "Gary's Agile Yuppies",
+      "nickname": "Yuppies",
+      "abbr": "GAY",
+      "org": "DGR"
+    },
+    "year": 2008,
+    "week": 1
+  },
+  {
+    "score": 55,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2008,
+    "week": 2
+  },
+  {
+    "score": 59,
+    "team": {
+      "name": "I Also Cheat To Win",
+      "nickname": "Cheat To Win",
+      "abbr": "IACT",
+      "org": "THUR"
+    },
+    "year": 2008,
+    "week": 3
+  },
+  {
+    "score": 50,
+    "team": {
+      "name": "Gary's Agile Yuppies",
+      "nickname": "Yuppies",
+      "abbr": "GAY",
+      "org": "DGR"
+    },
+    "year": 2008,
+    "week": 5
+  },
+  {
+    "score": 47,
+    "team": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "org": "TNS"
+    },
+    "year": 2008,
+    "week": 6
+  },
+  {
+    "score": 57,
+    "team": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "org": "TNS"
+    },
+    "year": 2008,
+    "week": 7
+  },
+  {
+    "score": 57,
+    "team": {
+      "name": "Seascape Slugs",
+      "nickname": "Slugs",
+      "abbr": "SLUG",
+      "org": "IS"
+    },
+    "year": 2008,
+    "week": 9
+  },
+  {
+    "score": 54,
+    "team": {
+      "name": "Seascape Slugs",
+      "nickname": "Slugs",
+      "abbr": "SLUG",
+      "org": "IS"
+    },
+    "year": 2008,
+    "week": 11
+  },
+  {
+    "score": 47,
+    "team": {
+      "name": "Gary's Agile Yuppies",
+      "nickname": "Yuppies",
+      "abbr": "GAY",
+      "org": "DGR"
+    },
+    "year": 2008,
+    "week": 13
+  },
+  {
+    "score": 58,
+    "team": {
+      "name": "Alaskan Pipeline",
+      "nickname": "Pipeline",
+      "abbr": "APL",
+      "org": "APL"
+    },
+    "year": 2009,
+    "week": 3
+  },
+  {
+    "score": 48,
+    "team": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "org": "STD"
+    },
+    "year": 2009,
+    "week": 5
+  },
+  {
+    "score": 53,
+    "team": {
+      "name": "Capehart Bloods",
+      "nickname": "Bloods",
+      "abbr": "BIGD",
+      "org": "BIGD"
+    },
+    "year": 2009,
+    "week": 5
+  },
+  {
+    "score": 55,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2009,
+    "week": 8
+  },
+  {
+    "score": 51,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2009,
+    "week": "Rd 1"
+  },
+  {
+    "score": 47,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2009,
+    "week": "Rd 2"
+  },
+  {
+    "score": 52,
+    "team": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "org": "STD"
+    },
+    "year": 2009,
+    "week": "Rd 3"
+  },
+  {
+    "score": 52,
+    "team": {
+      "name": "Seascape Slugs",
+      "nickname": "Slugs",
+      "abbr": "SLUG",
+      "org": "IS"
+    },
+    "year": 2009,
+    "week": "Rd 3"
+  },
+  {
+    "score": 42,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2010,
+    "week": 4
+  },
+  {
+    "score": 35,
+    "team": {
+      "name": "Seascape Slugs",
+      "nickname": "Slugs",
+      "abbr": "SLUG",
+      "org": "IS"
+    },
+    "year": 2010,
+    "week": 5
+  },
+  {
+    "score": 56,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2010,
+    "week": 8
+  },
+  {
+    "score": 53,
+    "team": {
+      "name": "Seascape Slugs",
+      "nickname": "Slugs",
+      "abbr": "SLUG",
+      "org": "IS"
+    },
+    "year": 2010,
+    "week": 9
+  },
+  {
+    "score": 58,
+    "team": {
+      "name": "Seascape Slugs",
+      "nickname": "Slugs",
+      "abbr": "SLUG",
+      "org": "IS"
+    },
+    "year": 2010,
+    "week": 10
+  },
+  {
+    "score": 46,
+    "team": {
+      "name": "Danger Ross",
+      "nickname": "Ross",
+      "abbr": "DGR",
+      "org": "DGR"
+    },
+    "year": 2010,
+    "week": 13
+  },
+  {
+    "score": 57,
+    "team": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "org": "TNS"
+    },
+    "year": 2011,
+    "week": "Rd 2"
+  },
+  {
+    "score": 55,
+    "team": {
+      "name": "Danger Ross",
+      "nickname": "Ross",
+      "abbr": "DGR",
+      "org": "DGR"
+    },
+    "year": 2011,
+    "week": "Rd 3"
+  },
+  {
+    "score": 59.9,
+    "team": {
+      "name": "Danger Ross",
+      "nickname": "Ross",
+      "abbr": "DGR",
+      "org": "DGR"
+    },
+    "year": 2012,
+    "week": 6
+  },
+  {
+    "score": 57.5,
+    "team": {
+      "name": "Alaskan Pipeline",
+      "nickname": "Pipeline",
+      "abbr": "APL",
+      "org": "APL"
+    },
+    "year": 2012,
+    "week": 13
+  },
+  {
+    "score": 49.6,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2012,
+    "week": "Rd 1"
+  },
+  {
+    "score": 52,
+    "team": {
+      "name": "Alaskan Pipeline",
+      "nickname": "Pipeline",
+      "abbr": "APL",
+      "org": "APL"
+    },
+    "year": 2013,
+    "week": 7
+  },
+  {
+    "score": 52.4,
+    "team": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "org": "IS"
+    },
+    "year": 2013,
+    "week": 9
+  },
+  {
+    "score": 57.3,
+    "team": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "org": "TNS"
+    },
+    "year": 2013,
+    "week": "Rd 1"
+  },
+  {
+    "score": 38.1,
+    "team": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "org": "STD"
+    },
+    "year": 2013,
+    "week": "Rd 3"
+  },
+  {
+    "score": 59.8,
+    "team": {
+      "name": "Capehart Bloods",
+      "nickname": "Bloods",
+      "abbr": "BIGD",
+      "org": "BIGD"
+    },
+    "year": 2014,
+    "week": "Rd 1"
+  },
+  {
+    "score": 54.5,
+    "team": {
+      "name": "Danger Ross",
+      "nickname": "Ross",
+      "abbr": "DGR",
+      "org": "DGR"
+    },
+    "year": 2014,
+    "week": "Rd 3"
+  },
+  {
+    "score": 59.6,
+    "team": {
+      "name": "Capehart Bloods",
+      "nickname": "Bloods",
+      "abbr": "BIGD",
+      "org": "BIGD"
+    },
+    "year": 2015,
+    "week": 8
+  },
+  {
+    "score": 58.8,
+    "team": {
+      "name": "Danger Ross",
+      "nickname": "Ross",
+      "abbr": "DGR",
+      "org": "DGR"
+    },
+    "year": 2015,
+    "week": "Rd 1"
+  },
+  {
+    "score": 56.2,
+    "team": {
+      "name": "Capehart Bloods",
+      "nickname": "Bloods",
+      "abbr": "BIGD",
+      "org": "BIGD"
+    },
+    "year": 2016,
+    "week": 7
+  },
+  {
+    "score": 59,
+    "team": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "org": "IS"
+    },
+    "year": 2016,
+    "week": 9
+  },
+  {
+    "score": 52.1,
+    "team": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "org": "STD"
+    },
+    "year": 2017,
+    "week": 1
+  },
+  {
+    "score": 54.5,
+    "team": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "org": "TNS"
+    },
+    "year": 2017,
+    "week": 1
+  },
+  {
+    "score": 45.9,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2017,
+    "week": 2
+  },
+  {
+    "score": 57.7,
+    "team": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "org": "IS"
+    },
+    "year": 2017,
+    "week": 5
+  },
+  {
+    "score": 41.4,
+    "team": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "org": "THUR"
+    },
+    "year": 2017,
+    "week": 7
+  },
+  {
+    "score": 56.1,
+    "team": {
+      "name": "Danger Ross",
+      "nickname": "Ross",
+      "abbr": "DGR",
+      "org": "DGR"
+    },
+    "year": 2018,
+    "week": "Rd 1"
+  },
+  {
+    "score": 54.9,
+    "team": {
+      "name": "Alaskan Pipeline",
+      "nickname": "Pipeline",
+      "abbr": "APL",
+      "org": "APL"
+    },
+    "year": 2018,
+    "week": "Rd 2"
+  },
+  {
+    "score": 59.3,
+    "team": {
+      "name": "Danger Ross",
+      "nickname": "Ross",
+      "abbr": "DGR",
+      "org": "DGR"
+    },
+    "year": 2018,
+    "week": "Rd 3"
+  }
+]

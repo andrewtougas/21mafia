@@ -1,0 +1,1233 @@
+[
+  {
+    "id": 1,
+    "name": "American Craft Brewers",
+    "nickname": "Brewers",
+    "abbr": "ALE",
+    "owners": [
+      {
+        "name": "Harland Conners"
+      }
+    ],
+    "active": true,
+    "history": [
+      {
+        "year": 2007,
+        "wins": 5,
+        "losses": 9,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2008,
+        "wins": 10,
+        "losses": 3,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2009,
+        "wins": 7,
+        "losses": 6,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2010,
+        "wins": 6,
+        "losses": 7,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2011,
+        "wins": 7,
+        "losses": 6,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2012,
+        "wins": 5,
+        "losses": 8,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2013,
+        "wins": 7,
+        "losses": 6,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2014,
+        "wins": 6,
+        "losses": 7,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2015,
+        "wins": 6,
+        "losses": 7,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2016,
+        "wins": 9,
+        "losses": 4,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2017,
+        "wins": 8,
+        "losses": 5,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2018,
+        "wins": 10,
+        "losses": 3,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 1417.6,
+        "ptsAgainst": 1200.9
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "The Legion of Doom",
+    "nickname": "Doom",
+    "abbr": "LOD",
+    "owners": [
+      {
+        "name": "Darren Henry"
+      }
+    ],
+    "active": true,
+    "history": [
+      {
+        "year": 2007,
+        "wins": 11,
+        "losses": 3,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2008,
+        "wins": 10,
+        "losses": 3,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2009,
+        "wins": 9,
+        "losses": 4,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2010,
+        "wins": 6,
+        "losses": 7,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2011,
+        "wins": 5,
+        "losses": 8,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2012,
+        "wins": 4,
+        "losses": 9,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2013,
+        "wins": 2,
+        "losses": 11,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2014,
+        "wins": 8,
+        "losses": 5,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2015,
+        "wins": 11,
+        "losses": 2,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2016,
+        "wins": 11,
+        "losses": 2,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2017,
+        "wins": 7,
+        "losses": 6,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2018,
+        "wins": 7,
+        "losses": 6,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 1499.8,
+        "ptsAgainst": 1419
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "The Courtesy Flush",
+    "nickname": "Flush",
+    "abbr": "LOG",
+    "owners": [
+      {
+        "name": "Corey Tougas"
+      }
+    ],
+    "active": true,
+    "history": [
+      {
+        "year": 2007,
+        "wins": 8,
+        "losses": 6,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2008,
+        "wins": 5,
+        "losses": 8,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2009,
+        "wins": 6,
+        "losses": 7,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2010,
+        "wins": 5,
+        "losses": 8,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2011,
+        "wins": 3,
+        "losses": 10,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2012,
+        "wins": 5,
+        "losses": 8,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2013,
+        "wins": 6,
+        "losses": 7,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2014,
+        "wins": 6,
+        "losses": 7,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2015,
+        "wins": 2,
+        "losses": 11,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2016,
+        "wins": 5,
+        "losses": 8,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2017,
+        "wins": 4,
+        "losses": 9,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2018,
+        "wins": 9,
+        "losses": 4,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 1598.7,
+        "ptsAgainst": 1433.4
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Danger Ross",
+    "nickname": "Ross",
+    "abbr": "DGR",
+    "owners": [
+      {
+        "name": "Ross Hart"
+      }
+    ],
+    "active": true,
+    "history": [
+      {
+        "year": 2007,
+        "wins": 8,
+        "losses": 6,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2008,
+        "wins": 3,
+        "losses": 10,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2009,
+        "wins": 7,
+        "losses": 6,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2010,
+        "wins": 7,
+        "losses": 6,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2011,
+        "wins": 4,
+        "losses": 9,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2012,
+        "wins": 7,
+        "losses": 6,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2013,
+        "wins": 6,
+        "losses": 7,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2014,
+        "wins": 5,
+        "losses": 8,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2015,
+        "wins": 8,
+        "losses": 5,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2016,
+        "wins": 5,
+        "losses": 8,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2017,
+        "wins": 8,
+        "losses": 5,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2018,
+        "wins": 4,
+        "losses": 9,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 1185.8,
+        "ptsAgainst": 1419
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Muffville Womb Raiders",
+    "nickname": "Raiders",
+    "abbr": "STD",
+    "owners": [
+      {
+        "name": "Kaleem Clarkson"
+      },
+      {
+        "name": "Joshua Jamieson"
+      }
+    ],
+    "active": true,
+    "history": [
+      {
+        "year": 2007,
+        "wins": 2,
+        "losses": 12,
+        "rank": 7,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2008,
+        "wins": 7,
+        "losses": 6,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2009,
+        "wins": 7,
+        "losses": 6,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2010,
+        "wins": 6,
+        "losses": 7,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2011,
+        "wins": 8,
+        "losses": 5,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2012,
+        "wins": 6,
+        "losses": 7,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2013,
+        "wins": 6,
+        "losses": 7,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2014,
+        "wins": 8,
+        "losses": 5,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2015,
+        "wins": 11,
+        "losses": 2,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2016,
+        "wins": 9,
+        "losses": 4,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2017,
+        "wins": 8,
+        "losses": 5,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2018,
+        "wins": 4,
+        "losses": 9,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 1379.3,
+        "ptsAgainst": 1544.2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "The Nasty Steamers",
+    "nickname": "Steamers",
+    "abbr": "TNS",
+    "owners": [
+      {
+        "name": "Andrew Tougas"
+      }
+    ],
+    "active": true,
+    "history": [
+      {
+        "year": 2007,
+        "wins": 10,
+        "losses": 4,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2008,
+        "wins": 7,
+        "losses": 6,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2009,
+        "wins": 5,
+        "losses": 8,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2010,
+        "wins": 7,
+        "losses": 6,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2011,
+        "wins": 5,
+        "losses": 8,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2012,
+        "wins": 7,
+        "losses": 6,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2013,
+        "wins": 8,
+        "losses": 5,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2014,
+        "wins": 7,
+        "losses": 6,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2015,
+        "wins": 6,
+        "losses": 7,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2016,
+        "wins": 1,
+        "losses": 12,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2017,
+        "wins": 7,
+        "losses": 6,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2018,
+        "wins": 6,
+        "losses": 7,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 1405.6,
+        "ptsAgainst": 1409.1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Capehart Bloods",
+    "nickname": "Bloods",
+    "abbr": "BIGD",
+    "owners": [
+      {
+        "name": "Daniel Henry"
+      }
+    ],
+    "active": true,
+    "history": [
+      {
+        "year": 2008,
+        "wins": 8,
+        "losses": 5,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2009,
+        "wins": 5,
+        "losses": 8,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2010,
+        "wins": 7,
+        "losses": 6,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2011,
+        "wins": 7,
+        "losses": 6,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2012,
+        "wins": 10,
+        "losses": 3,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2013,
+        "wins": 8,
+        "losses": 5,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2014,
+        "wins": 7,
+        "losses": 6,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2015,
+        "wins": 5,
+        "losses": 8,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2016,
+        "wins": 8,
+        "losses": 5,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2017,
+        "wins": 6,
+        "losses": 7,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2018,
+        "wins": 5,
+        "losses": 8,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 1380.3,
+        "ptsAgainst": 1469
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Island Strong",
+    "nickname": "Strong",
+    "abbr": "IS",
+    "owners": [
+      {
+        "name": "David Prinstein"
+      }
+    ],
+    "active": true,
+    "history": [
+      {
+        "year": 2008,
+        "wins": 6,
+        "losses": 7,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2009,
+        "wins": 6,
+        "losses": 7,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2010,
+        "wins": 5,
+        "losses": 8,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2011,
+        "wins": 9,
+        "losses": 4,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2012,
+        "wins": 8,
+        "losses": 5,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2013,
+        "wins": 7,
+        "losses": 6,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2014,
+        "wins": 2,
+        "losses": 11,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2015,
+        "wins": 5,
+        "losses": 8,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2016,
+        "wins": 5,
+        "losses": 8,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2017,
+        "wins": 5,
+        "losses": 8,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2018,
+        "wins": 8,
+        "losses": 5,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 1751.9,
+        "ptsAgainst": 1470.6
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Alaskan Pipeline",
+    "nickname": "Pipeline",
+    "abbr": "APL",
+    "owners": [
+      {
+        "name": "Colin Tougas"
+      }
+    ],
+    "active": true,
+    "history": [
+      {
+        "year": 2008,
+        "wins": 3,
+        "losses": 10,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2009,
+        "wins": 6,
+        "losses": 7,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2010,
+        "wins": 7,
+        "losses": 6,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2011,
+        "wins": 9,
+        "losses": 4,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2012,
+        "wins": 8,
+        "losses": 5,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2013,
+        "wins": 6,
+        "losses": 7,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2014,
+        "wins": 7,
+        "losses": 6,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2015,
+        "wins": 4,
+        "losses": 9,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2016,
+        "wins": 8,
+        "losses": 5,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2017,
+        "wins": 6,
+        "losses": 7,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2018,
+        "wins": 3,
+        "losses": 10,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 1294.4,
+        "ptsAgainst": 1603.2
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "The Shockers",
+    "nickname": "Shockers",
+    "abbr": "THUR",
+    "owners": [
+      {
+        "name": "Mike Thurston"
+      }
+    ],
+    "active": true,
+    "history": [
+      {
+        "year": 2008,
+        "wins": 6,
+        "losses": 7,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2009,
+        "wins": 7,
+        "losses": 6,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2010,
+        "wins": 9,
+        "losses": 4,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2011,
+        "wins": 8,
+        "losses": 5,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2012,
+        "wins": 5,
+        "losses": 8,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2013,
+        "wins": 9,
+        "losses": 4,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2014,
+        "wins": 9,
+        "losses": 4,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2015,
+        "wins": 7,
+        "losses": 6,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2016,
+        "wins": 4,
+        "losses": 9,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2017,
+        "wins": 6,
+        "losses": 7,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      },
+      {
+        "year": 2018,
+        "wins": 9,
+        "losses": 4,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 1515.2,
+        "ptsAgainst": 1460.2
+      }
+    ]
+  },
+  {
+    "name": "Cincinnati Bowties",
+    "nickname": "Bowties",
+    "abbr": "SAUL",
+    "owners": [
+      {
+        "name": "David Saul"
+      }
+    ],
+    "active": false,
+    "history": [
+      {
+        "year": 2007,
+        "wins": 7,
+        "losses": 7,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      }
+    ]
+  },
+  {
+    "name": "Team Kennedy",
+    "nickname": "Kennedy",
+    "abbr": "KENN",
+    "owners": [
+      {
+        "name": "John Kennedy"
+      }
+    ],
+    "active": false,
+    "history": [
+      {
+        "year": 2007,
+        "wins": 5,
+        "losses": 9,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 0,
+        "ptsAgainst": 0
+      }
+    ]
+  }
+]

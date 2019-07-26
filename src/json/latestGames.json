@@ -1,0 +1,57 @@
+[
+  {
+    "away": {
+      "team": "#6 TNS",
+      "score": 115.3
+    },
+    "home": {
+      "team": "#1 ALE",
+      "score": 109.7
+    },
+    "week": "Championship"
+  },
+  {
+    "away": {
+      "team": "#4 IS",
+      "score": 111.6
+    },
+    "home": {
+      "team": "#2 LOG",
+      "score": 92.4
+    },
+    "week": "Consolation"
+  },
+  {
+    "away": {
+      "team": "#7 BIGD",
+      "score": 115.8
+    },
+    "home": {
+      "team": "#5 LOD",
+      "score": 157
+    },
+    "week": "Consolation"
+  },
+  {
+    "away": {
+      "team": "#8 DGR",
+      "score": 59.3
+    },
+    "home": {
+      "team": "#3 THUR",
+      "score": 140.9
+    },
+    "week": "Consolation"
+  },
+  {
+    "away": {
+      "team": "#10 APL",
+      "score": 87.9
+    },
+    "home": {
+      "team": "#9 STD",
+      "score": 90.1
+    },
+    "week": "Turd Burglar"
+  }
+]

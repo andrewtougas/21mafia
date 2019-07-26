@@ -1,29 +1,39 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+    <div class="uk-offcanvas-content">
+      <Header />
+      <main>
+        <router-view />
+      </main>
+      <Footer />
     </div>
-    <router-view />
+    <OffCanvas />
   </div>
 </template>
 
-<style lang="scss">
-#app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-#nav {
-  padding: 30px;
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-    &.router-link-exact-active {
-      color: #42b983;
-    }
+<script>
+import Header from '@/views/layout/Header.vue';
+import Footer from '@/views/layout/Footer.vue';
+import OffCanvas from '@/components/OffCanvas.vue';
+
+export default {
+  name: "app",
+  components: {
+    Header,
+    Footer,
+    OffCanvas
   }
+}
+</script>
+
+<style lang="scss">
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 200;
+}
+.uk-notification-message {
+  background: #1e87f0;
+  color: #fff;
+  font-size: .825rem;
+  font-weight: 200;
 }
 </style>
