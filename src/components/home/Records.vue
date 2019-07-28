@@ -26,8 +26,8 @@
             </td>
             <td>{{ `${team.total.wins}-${team.total.losses}` }}</td>
             <td class="uk-text-right">{{ team.winPercentage}} </td>
-            <td class="uk-text-right">{{ team.total.ptsFor }}</td>
-            <td class="uk-text-right">{{ team.total.ptsAgainst }}</td>
+            <td class="uk-text-right">{{ team.total.ptsFor.toFixed(1) }}</td>
+            <td class="uk-text-right">{{ team.total.ptsAgainst.toFixed(1) }}</td>
             <td class="uk-text-right" :class="{ 'uk-text-success': team.ptsDiff > 0, 'uk-text-danger': team.ptsDiff < 0 }">
               {{ (team.ptsDiff > 0) ? `+${team.ptsDiff}` : team.ptsDiff }}
             </td>

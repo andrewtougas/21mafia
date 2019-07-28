@@ -40,8 +40,8 @@
           <td class="uk-text-right">{{ compiledTeam.winPercentage }}</td>
           <td class="uk-text-right">{{ compiledTeam.avgRank }}</td>
           <td class="uk-text-right">{{ compiledTeam.playoffAppearances }}</td>
-          <td class="uk-text-right">{{ compiledTeam.total.ptsFor }}</td>
-          <td class="uk-text-right">{{ compiledTeam.total.ptsAgainst }}</td>
+          <td class="uk-text-right">{{ compiledTeam.total.ptsFor.toFixed(1) }}</td>
+          <td class="uk-text-right">{{ compiledTeam.total.ptsAgainst.toFixed(1) }}</td>
           <td class="uk-text-right" :class="{ 'uk-text-success': compiledTeam.ptsDiff > 0, 'uk-text-danger': compiledTeam.ptsDiff < 0 }">
             {{ (compiledTeam.ptsDiff > 0) ? `+${compiledTeam.ptsDiff}` : compiledTeam.ptsDiff }}
           </td>
@@ -58,7 +58,6 @@ export default {
   computed: {
     compiledTeam() {
       const teamStats = {...this.team};
-      console.log(teamStats);
       teamStats.history.forEach(year => {
         // Calculate yearly win percentage
         let yearWinPercentage = (year.wins / (year.wins + year.losses)).toFixed(3);

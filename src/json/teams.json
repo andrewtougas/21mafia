@@ -17,8 +17,8 @@
         "losses": 9,
         "rank": 3,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1295,
+        "ptsAgainst": 1365
       },
       {
         "year": 2008,
@@ -26,8 +26,8 @@
         "losses": 3,
         "rank": 1,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1355,
+        "ptsAgainst": 1071
       },
       {
         "year": 2009,
@@ -35,8 +35,8 @@
         "losses": 6,
         "rank": 1,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1342,
+        "ptsAgainst": 1321
       },
       {
         "year": 2010,
@@ -44,8 +44,8 @@
         "losses": 7,
         "rank": 1,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1300,
+        "ptsAgainst": 1319
       },
       {
         "year": 2011,
@@ -53,8 +53,8 @@
         "losses": 6,
         "rank": 5,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1507,
+        "ptsAgainst": 1379
       },
       {
         "year": 2012,
@@ -62,8 +62,8 @@
         "losses": 8,
         "rank": 3,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1394.5,
+        "ptsAgainst": 1383.2
       },
       {
         "year": 2013,
@@ -71,8 +71,8 @@
         "losses": 6,
         "rank": 2,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1603.8,
+        "ptsAgainst": 1377.3
       },
       {
         "year": 2014,
@@ -80,8 +80,8 @@
         "losses": 7,
         "rank": 6,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1391.4,
+        "ptsAgainst": 1373
       },
       {
         "year": 2015,
@@ -89,8 +89,8 @@
         "losses": 7,
         "rank": 2,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1298.5,
+        "ptsAgainst": 1358.2
       },
       {
         "year": 2016,
@@ -98,8 +98,8 @@
         "losses": 4,
         "rank": 3,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1324.9,
+        "ptsAgainst": 1327
       },
       {
         "year": 2017,
@@ -107,8 +107,8 @@
         "losses": 5,
         "rank": 3,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1299.7,
+        "ptsAgainst": 1229.8
       },
       {
         "year": 2018,
@@ -139,8 +139,8 @@
         "losses": 3,
         "rank": 1,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1560,
+        "ptsAgainst": 1335
       },
       {
         "year": 2008,
@@ -148,8 +148,8 @@
         "losses": 3,
         "rank": 3,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1377,
+        "ptsAgainst": 1160
       },
       {
         "year": 2009,
@@ -157,8 +157,8 @@
         "losses": 4,
         "rank": 3,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1392,
+        "ptsAgainst": 1243
       },
       {
         "year": 2010,
@@ -166,8 +166,8 @@
         "losses": 7,
         "rank": 4,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1310,
+        "ptsAgainst": 1249
       },
       {
         "year": 2011,
@@ -175,8 +175,8 @@
         "losses": 8,
         "rank": 8,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1184,
+        "ptsAgainst": 1320
       },
       {
         "year": 2012,
@@ -184,8 +184,8 @@
         "losses": 9,
         "rank": 10,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1304.1,
+        "ptsAgainst": 1498.7
       },
       {
         "year": 2013,
@@ -193,8 +193,8 @@
         "losses": 11,
         "rank": 9,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1339.9,
+        "ptsAgainst": 1555.6
       },
       {
         "year": 2014,
@@ -202,8 +202,8 @@
         "losses": 5,
         "rank": 1,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1542.3,
+        "ptsAgainst": 1362.6
       },
       {
         "year": 2015,
@@ -211,8 +211,8 @@
         "losses": 2,
         "rank": 6,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1586.7,
+        "ptsAgainst": 1304.5
       },
       {
         "year": 2016,
@@ -220,8 +220,8 @@
         "losses": 2,
         "rank": 1,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1647.3,
+        "ptsAgainst": 1350.1
       },
       {
         "year": 2017,
@@ -229,8 +229,8 @@
         "losses": 6,
         "rank": 2,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1334.2,
+        "ptsAgainst": 1354.9
       },
       {
         "year": 2018,
@@ -261,8 +261,8 @@
         "losses": 6,
         "rank": 4,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1452,
+        "ptsAgainst": 1402
       },
       {
         "year": 2008,
@@ -270,8 +270,8 @@
         "losses": 8,
         "rank": 9,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1114,
+        "ptsAgainst": 1252
       },
       {
         "year": 2009,
@@ -279,8 +279,8 @@
         "losses": 7,
         "rank": 8,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1203,
+        "ptsAgainst": 1104
       },
       {
         "year": 2010,
@@ -288,8 +288,8 @@
         "losses": 8,
         "rank": 10,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1181,
+        "ptsAgainst": 1264
       },
       {
         "year": 2011,
@@ -297,8 +297,8 @@
         "losses": 10,
         "rank": 9,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1230,
+        "ptsAgainst": 1308
       },
       {
         "year": 2012,
@@ -306,8 +306,8 @@
         "losses": 8,
         "rank": 9,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1291.1,
+        "ptsAgainst": 1447.4
       },
       {
         "year": 2013,
@@ -315,8 +315,8 @@
         "losses": 7,
         "rank": 10,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1230.8,
+        "ptsAgainst": 1237.7
       },
       {
         "year": 2014,
@@ -324,8 +324,8 @@
         "losses": 7,
         "rank": 9,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1295.5,
+        "ptsAgainst": 1440.5
       },
       {
         "year": 2015,
@@ -333,8 +333,8 @@
         "losses": 11,
         "rank": 10,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1218,
+        "ptsAgainst": 1451.3
       },
       {
         "year": 2016,
@@ -342,8 +342,8 @@
         "losses": 8,
         "rank": 2,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1475,
+        "ptsAgainst": 1372.3
       },
       {
         "year": 2017,
@@ -351,8 +351,8 @@
         "losses": 9,
         "rank": 10,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1307.8,
+        "ptsAgainst": 1427.2
       },
       {
         "year": 2018,
@@ -383,8 +383,8 @@
         "losses": 6,
         "rank": 6,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1452,
+        "ptsAgainst": 1451
       },
       {
         "year": 2008,
@@ -392,8 +392,8 @@
         "losses": 10,
         "rank": 8,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 968,
+        "ptsAgainst": 1331
       },
       {
         "year": 2009,
@@ -401,8 +401,8 @@
         "losses": 6,
         "rank": 4,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1299,
+        "ptsAgainst": 1301
       },
       {
         "year": 2010,
@@ -410,8 +410,8 @@
         "losses": 6,
         "rank": 8,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1258,
+        "ptsAgainst": 1293
       },
       {
         "year": 2011,
@@ -419,8 +419,8 @@
         "losses": 9,
         "rank": 10,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1131,
+        "ptsAgainst": 1366
       },
       {
         "year": 2012,
@@ -428,8 +428,8 @@
         "losses": 6,
         "rank": 6,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1373.6,
+        "ptsAgainst": 1394.8
       },
       {
         "year": 2013,
@@ -437,8 +437,8 @@
         "losses": 7,
         "rank": 3,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1269.4,
+        "ptsAgainst": 1448.5
       },
       {
         "year": 2014,
@@ -446,8 +446,8 @@
         "losses": 8,
         "rank": 8,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1229.7,
+        "ptsAgainst": 1321.4
       },
       {
         "year": 2015,
@@ -455,8 +455,8 @@
         "losses": 5,
         "rank": 7,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1340.3,
+        "ptsAgainst": 1253.3
       },
       {
         "year": 2016,
@@ -464,8 +464,8 @@
         "losses": 8,
         "rank": 10,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1360,
+        "ptsAgainst": 1493
       },
       {
         "year": 2017,
@@ -473,8 +473,8 @@
         "losses": 5,
         "rank": 7,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1220.3,
+        "ptsAgainst": 1198.8
       },
       {
         "year": 2018,
@@ -508,8 +508,8 @@
         "losses": 12,
         "rank": 7,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1229,
+        "ptsAgainst": 1355
       },
       {
         "year": 2008,
@@ -517,8 +517,8 @@
         "losses": 6,
         "rank": 6,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1360,
+        "ptsAgainst": 1267
       },
       {
         "year": 2009,
@@ -526,8 +526,8 @@
         "losses": 6,
         "rank": 2,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1160,
+        "ptsAgainst": 1274
       },
       {
         "year": 2010,
@@ -535,8 +535,8 @@
         "losses": 7,
         "rank": 5,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1242,
+        "ptsAgainst": 1214
       },
       {
         "year": 2011,
@@ -544,8 +544,8 @@
         "losses": 5,
         "rank": 4,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1391,
+        "ptsAgainst": 1406
       },
       {
         "year": 2012,
@@ -553,8 +553,8 @@
         "losses": 7,
         "rank": 5,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1329.8,
+        "ptsAgainst": 1378
       },
       {
         "year": 2013,
@@ -562,8 +562,8 @@
         "losses": 7,
         "rank": 4,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1294.3,
+        "ptsAgainst": 1328.1
       },
       {
         "year": 2014,
@@ -571,8 +571,8 @@
         "losses": 5,
         "rank": 2,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1517.5,
+        "ptsAgainst": 1359.6
       },
       {
         "year": 2015,
@@ -580,8 +580,8 @@
         "losses": 2,
         "rank": 5,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1528.4,
+        "ptsAgainst": 1210.1
       },
       {
         "year": 2016,
@@ -589,8 +589,8 @@
         "losses": 4,
         "rank": 4,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1475.2,
+        "ptsAgainst": 1406.8
       },
       {
         "year": 2017,
@@ -598,8 +598,8 @@
         "losses": 5,
         "rank": 5,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1396.1,
+        "ptsAgainst": 1295.5
       },
       {
         "year": 2018,
@@ -630,8 +630,8 @@
         "losses": 4,
         "rank": 2,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1404,
+        "ptsAgainst": 1319
       },
       {
         "year": 2008,
@@ -639,8 +639,8 @@
         "losses": 6,
         "rank": 2,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1142,
+        "ptsAgainst": 1209
       },
       {
         "year": 2009,
@@ -648,8 +648,8 @@
         "losses": 8,
         "rank": 6,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1241,
+        "ptsAgainst": 1344
       },
       {
         "year": 2010,
@@ -657,8 +657,8 @@
         "losses": 6,
         "rank": 3,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1380,
+        "ptsAgainst": 1308
       },
       {
         "year": 2011,
@@ -666,8 +666,8 @@
         "losses": 8,
         "rank": 7,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1234,
+        "ptsAgainst": 1373
       },
       {
         "year": 2012,
@@ -675,8 +675,8 @@
         "losses": 6,
         "rank": 2,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1352.4,
+        "ptsAgainst": 1304.9
       },
       {
         "year": 2013,
@@ -684,8 +684,8 @@
         "losses": 5,
         "rank": 7,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1360.1,
+        "ptsAgainst": 1419
       },
       {
         "year": 2014,
@@ -693,8 +693,8 @@
         "losses": 6,
         "rank": 5,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1383.1,
+        "ptsAgainst": 1338
       },
       {
         "year": 2015,
@@ -702,8 +702,8 @@
         "losses": 7,
         "rank": 1,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1417,
+        "ptsAgainst": 1323.2
       },
       {
         "year": 2016,
@@ -711,8 +711,8 @@
         "losses": 12,
         "rank": 9,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1063,
+        "ptsAgainst": 1408.1
       },
       {
         "year": 2017,
@@ -720,8 +720,8 @@
         "losses": 6,
         "rank": 4,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1203.2,
+        "ptsAgainst": 1256.9
       },
       {
         "year": 2018,
@@ -752,8 +752,8 @@
         "losses": 5,
         "rank": 5,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1364,
+        "ptsAgainst": 1188
       },
       {
         "year": 2009,
@@ -761,8 +761,8 @@
         "losses": 8,
         "rank": 10,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1317,
+        "ptsAgainst": 1381
       },
       {
         "year": 2010,
@@ -770,8 +770,8 @@
         "losses": 6,
         "rank": 7,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1395,
+        "ptsAgainst": 1310
       },
       {
         "year": 2011,
@@ -779,8 +779,8 @@
         "losses": 6,
         "rank": 6,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1280,
+        "ptsAgainst": 1304
       },
       {
         "year": 2012,
@@ -788,8 +788,8 @@
         "losses": 3,
         "rank": 4,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1414.1,
+        "ptsAgainst": 1303.6
       },
       {
         "year": 2013,
@@ -797,8 +797,8 @@
         "losses": 5,
         "rank": 1,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1384.2,
+        "ptsAgainst": 1257
       },
       {
         "year": 2014,
@@ -806,8 +806,8 @@
         "losses": 6,
         "rank": 7,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1503.8,
+        "ptsAgainst": 1481.7
       },
       {
         "year": 2015,
@@ -815,8 +815,8 @@
         "losses": 8,
         "rank": 3,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1285.1,
+        "ptsAgainst": 1334.9
       },
       {
         "year": 2016,
@@ -824,8 +824,8 @@
         "losses": 5,
         "rank": 8,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1233.7,
+        "ptsAgainst": 1193.9
       },
       {
         "year": 2017,
@@ -833,8 +833,8 @@
         "losses": 7,
         "rank": 1,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1397.7,
+        "ptsAgainst": 1305.6
       },
       {
         "year": 2018,
@@ -865,8 +865,8 @@
         "losses": 7,
         "rank": 7,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1203,
+        "ptsAgainst": 1193
       },
       {
         "year": 2009,
@@ -874,8 +874,8 @@
         "losses": 7,
         "rank": 9,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1248,
+        "ptsAgainst": 1267
       },
       {
         "year": 2010,
@@ -883,8 +883,8 @@
         "losses": 8,
         "rank": 9,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1093,
+        "ptsAgainst": 1297
       },
       {
         "year": 2011,
@@ -892,8 +892,8 @@
         "losses": 4,
         "rank": 1,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1382,
+        "ptsAgainst": 1283
       },
       {
         "year": 2012,
@@ -901,8 +901,8 @@
         "losses": 5,
         "rank": 7,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1428,
+        "ptsAgainst": 1344.9
       },
       {
         "year": 2013,
@@ -910,8 +910,8 @@
         "losses": 6,
         "rank": 8,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1288.2,
+        "ptsAgainst": 1384.3
       },
       {
         "year": 2014,
@@ -919,8 +919,8 @@
         "losses": 11,
         "rank": 10,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1199,
+        "ptsAgainst": 1515.4
       },
       {
         "year": 2015,
@@ -928,8 +928,8 @@
         "losses": 8,
         "rank": 4,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1258.4,
+        "ptsAgainst": 1419.5
       },
       {
         "year": 2016,
@@ -937,8 +937,8 @@
         "losses": 8,
         "rank": 6,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1232.7,
+        "ptsAgainst": 1269.9
       },
       {
         "year": 2017,
@@ -946,8 +946,8 @@
         "losses": 8,
         "rank": 9,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1360.9,
+        "ptsAgainst": 1368.5
       },
       {
         "year": 2018,
@@ -978,8 +978,8 @@
         "losses": 10,
         "rank": 10,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1167,
+        "ptsAgainst": 1353
       },
       {
         "year": 2009,
@@ -987,8 +987,8 @@
         "losses": 7,
         "rank": 5,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1274,
+        "ptsAgainst": 1340
       },
       {
         "year": 2010,
@@ -996,8 +996,8 @@
         "losses": 6,
         "rank": 7,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1194,
+        "ptsAgainst": 1226
       },
       {
         "year": 2011,
@@ -1005,8 +1005,8 @@
         "losses": 4,
         "rank": 2,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1444,
+        "ptsAgainst": 1249
       },
       {
         "year": 2012,
@@ -1014,8 +1014,8 @@
         "losses": 5,
         "rank": 1,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1328.8,
+        "ptsAgainst": 1201.5
       },
       {
         "year": 2013,
@@ -1023,8 +1023,8 @@
         "losses": 7,
         "rank": 6,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1403.9,
+        "ptsAgainst": 1410.8
       },
       {
         "year": 2014,
@@ -1032,8 +1032,8 @@
         "losses": 6,
         "rank": 3,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1308.6,
+        "ptsAgainst": 1284.7
       },
       {
         "year": 2015,
@@ -1041,8 +1041,8 @@
         "losses": 9,
         "rank": 9,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1373.4,
+        "ptsAgainst": 1559
       },
       {
         "year": 2016,
@@ -1050,8 +1050,8 @@
         "losses": 5,
         "rank": 5,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1509.4,
+        "ptsAgainst": 1362.8
       },
       {
         "year": 2017,
@@ -1059,8 +1059,8 @@
         "losses": 7,
         "rank": 6,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1265.8,
+        "ptsAgainst": 1237.6
       },
       {
         "year": 2018,
@@ -1091,8 +1091,8 @@
         "losses": 7,
         "rank": 4,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1179,
+        "ptsAgainst": 1205
       },
       {
         "year": 2009,
@@ -1100,8 +1100,8 @@
         "losses": 6,
         "rank": 7,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1390,
+        "ptsAgainst": 1291
       },
       {
         "year": 2010,
@@ -1109,8 +1109,8 @@
         "losses": 4,
         "rank": 2,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1336,
+        "ptsAgainst": 1209
       },
       {
         "year": 2011,
@@ -1118,8 +1118,8 @@
         "losses": 5,
         "rank": 3,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1497,
+        "ptsAgainst": 1292
       },
       {
         "year": 2012,
@@ -1127,8 +1127,8 @@
         "losses": 8,
         "rank": 8,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1459.1,
+        "ptsAgainst": 1418.4
       },
       {
         "year": 2013,
@@ -1136,8 +1136,8 @@
         "losses": 4,
         "rank": 5,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1449.6,
+        "ptsAgainst": 1205.9
       },
       {
         "year": 2014,
@@ -1145,8 +1145,8 @@
         "losses": 4,
         "rank": 4,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1585.4,
+        "ptsAgainst": 1479.5
       },
       {
         "year": 2015,
@@ -1154,8 +1154,8 @@
         "losses": 6,
         "rank": 8,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1277.7,
+        "ptsAgainst": 1369.4
       },
       {
         "year": 2016,
@@ -1163,8 +1163,8 @@
         "losses": 9,
         "rank": 7,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1256.4,
+        "ptsAgainst": 1393.7
       },
       {
         "year": 2017,
@@ -1172,8 +1172,8 @@
         "losses": 7,
         "rank": 8,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1207.2,
+        "ptsAgainst": 1318
       },
       {
         "year": 2018,
@@ -1203,8 +1203,8 @@
         "losses": 7,
         "rank": 5,
         "playoffs": true,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1310,
+        "ptsAgainst": 1312
       }
     ]
   },
@@ -1225,8 +1225,8 @@
         "losses": 9,
         "rank": 10,
         "playoffs": false,
-        "ptsFor": 0,
-        "ptsAgainst": 0
+        "ptsFor": 1261,
+        "ptsAgainst": 1424
       }
     ]
   }
