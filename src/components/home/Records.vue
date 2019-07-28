@@ -9,10 +9,10 @@
             <th :key="year" v-for="year in years">{{ year }}</th>
             <th>Total</th>
             <th class="uk-text-right">Win %</th>
-            <th class="uk-text-right" uk-tooltip="title: Points For; pos: top-right">PF</th>
-            <th class="uk-text-right" uk-tooltip="title: Points Against; pos: top-right">PA</th>
-            <th class="uk-text-right" uk-tooltip="title: Points Differential; pos: top-right">+/-</th>
-            <th class="uk-text-right" uk-tooltip="title: Playoff Appearances; pos: top-right">PlA</th>
+            <th class="uk-text-right"><span uk-tooltip="title: Points For; pos: top-right">PF</span></th>
+            <th class="uk-text-right"><span uk-tooltip="title: Points Against; pos: top-right">PA</span></th>
+            <th class="uk-text-right"><span uk-tooltip="title: Points Differential; pos: top-right">+/-</span></th>
+            <th class="uk-text-right"><span uk-tooltip="title: Playoff Appearances; pos: top-right">PlA</span></th>
             <th class="uk-text-right">Avg. Rank</th>
           </tr>
         </thead>

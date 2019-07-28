@@ -13,10 +13,10 @@
           <th>Losses</th>
           <th class="uk-text-right">Win %</th>
           <th class="uk-text-right">Rank</th>
-          <th class="uk-text-right" uk-tooltip="title: Playoff Appearance; pos: top-right">PlA</th>
-          <th class="uk-text-right" uk-tooltip="title: Points For; pos: top-right">PF</th>
-          <th class="uk-text-right" uk-tooltip="title: Points Against; pos: top-right">PA</th>
-          <th class="uk-text-right" uk-tooltip="title: Points Differential; pos: top-right">+/-</th>
+          <th class="uk-text-right"><span uk-tooltip="title: Playoff Appearance; pos: top-right">PlA</span></th>
+          <th class="uk-text-right"><span uk-tooltip="title: Points For; pos: top-right">PF</span></th>
+          <th class="uk-text-right"><span uk-tooltip="title: Points Against; pos: top-right">PA</span></th>
+          <th class="uk-text-right"><span uk-tooltip="title: Points Differential; pos: top-right">+/-</span></th>
         </tr>
       </thead>
       <tbody>
