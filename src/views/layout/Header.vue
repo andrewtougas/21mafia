@@ -5,7 +5,7 @@
         <nav class="uk-navbar uk-navbar-transparent uk-light" uk-navbar="mode: click">
           <div class="uk-navbar-left">
             <router-link class="uk-navbar-item uk-logo" to="/">21 Mafia</router-link>
-            <ul class="uk-navbar-nav">
+            <ul class="uk-navbar-nav uk-visible@m">
               <li>
                 <router-link to="/">Home</router-link>
               </li>
@@ -22,31 +22,35 @@
                 <router-link to="/teams-vs-opponents">Teams vs Opponents</router-link>
               </li>
             </ul>
-            <!-- <ul class="uk-navbar-nav">
-              <li>
-                <a class="uk-navbar-toggle" href="#">
-                  <span uk-navbar-toggle-icon></span> <span class="uk-margin-small-left">Menu</span>
-                </a>
-                <div class="uk-navbar-dropdown">
-                  <ul class="uk-nav uk-navbar-dropdown-nav">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Teams</a></li>
-                    <li><a href="#">History</a></li>
-                    <li><a href="#">Scoring</a></li>
-                    <li><a href="#">Teams vs Opponents</a></li>
-                  </ul>
-                </div>
-              </li>
-            </ul> -->
           </div>
           <div class="uk-navbar-right">
             <ul class="uk-navbar-nav">
               <li>
-                <a @click="showLatestGames()">
+                <a class="uk-navbar-toggle uk-hidden@m" uk-navbar-toggle-icon href="#"></a>
+                <div class="uk-navbar-dropdown uk-hidden@m" uk-dropdown="pos: bottom-right; mode: click">
+                  <ul class="uk-nav uk-navbar-dropdown-nav">
+                    <li>
+                      <router-link to="/">Home</router-link>
+                    </li>
+                    <li>
+                      <router-link to="/teams">Teams</router-link>
+                    </li>
+                    <li>
+                      <router-link to="/history">History</router-link>
+                    </li>
+                    <li>
+                      <router-link to="/scoring">Scoring</router-link>
+                    </li>
+                    <li>
+                      <router-link to="/teams-vs-opponents">Teams vs Opponents</router-link>
+                    </li>
+                  </ul>
+                </div>
+                <a class="uk-visible@m" @click="showLatestGames()">
                   <span class="uk-icon" uk-icon="icon: bell"></span>
                 </a>
               </li>
-              <div class="uk-navbar-item header__last-updated">Last updated: {{ lastUpdated }}</div>
+              <div class="uk-navbar-item uk-visible@m header__last-updated">Last updated: {{ lastUpdated }}</div>
             </ul>
           </div>
         </nav>
