@@ -1,57 +1,57 @@
 [
   {
     "away": {
-      "team": "#6 TNS",
-      "score": 115.3
+      "team": "LOD",
+      "score": 148.5
     },
     "home": {
-      "team": "#1 ALE",
-      "score": 109.7
+      "team": "LOG",
+      "score": 75.1
     },
-    "week": "Championship"
+    "week": "Wk 8"
   },
   {
     "away": {
-      "team": "#4 IS",
-      "score": 111.6
+      "team": "BIGD",
+      "score": 104.4
     },
     "home": {
-      "team": "#2 LOG",
-      "score": 92.4
+      "team": "ALE",
+      "score": 145.1
     },
-    "week": "Consolation"
+    "week": "Wk 8"
   },
   {
     "away": {
-      "team": "#7 BIGD",
-      "score": 115.8
+      "team": "THUR",
+      "score": 134.1
     },
     "home": {
-      "team": "#5 LOD",
-      "score": 157
+      "team": "STD",
+      "score": 104.4
     },
-    "week": "Consolation"
+    "week": "Wk 8"
   },
   {
     "away": {
-      "team": "#8 DGR",
-      "score": 59.3
+      "team": "DGR",
+      "score": 108.4
     },
     "home": {
-      "team": "#3 THUR",
-      "score": 140.9
+      "team": "IS",
+      "score": 95.1
     },
-    "week": "Consolation"
+    "week": "Wk 8"
   },
   {
     "away": {
-      "team": "#10 APL",
-      "score": 87.9
+      "team": "APL",
+      "score": 109.5
     },
     "home": {
-      "team": "#9 STD",
-      "score": 90.1
+      "team": "TNS",
+      "score": 104.3
     },
-    "week": "Turd Burglar"
+    "week": "Wk 8"
   }
 ]

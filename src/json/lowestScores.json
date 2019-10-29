@@ -537,5 +537,38 @@
     },
     "year": 2018,
     "week": "Rd 3"
+  },
+  {
+    "score": 59,
+    "team": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "org": "TNS"
+    },
+    "year": 2019,
+    "week": "1"
+  },
+  {
+    "score": 54.1,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2019,
+    "week": "7"
+  },
+  {
+    "score": 57.2,
+    "team": {
+      "name": "Capehart Bloods",
+      "nickname": "Bloods",
+      "abbr": "BIGD",
+      "org": "BIGD"
+    },
+    "year": 2019,
+    "week": "7"
   }
 ]

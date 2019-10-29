@@ -1,5 +1,16 @@
 [
   {
+    "score": 192.6,
+    "team": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "org": "THUR"
+    },
+    "year": 2019,
+    "week": 1
+  },
+  {
     "score": 192,
     "team": {
       "name": "The Courtesy Flush",

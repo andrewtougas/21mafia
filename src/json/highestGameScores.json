@@ -16,6 +16,22 @@
     }
   },
   {
+    "year": 2019,
+    "week": 1,
+    "winningTeam": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "score": 192.6
+    },
+    "losingTeam": {
+      "name": "Danger Ross",
+      "nickname": "Ross",
+      "abbr": "DGR",
+      "score": 130.1
+    }
+  },
+  {
     "year": 2018,
     "week": 6,
     "winningTeam": {
