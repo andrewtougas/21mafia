@@ -1,57 +1,57 @@
 [
   {
     "away": {
-      "team": "TNS",
-      "score": 147
+      "team": "ALE",
+      "score": 87.9
     },
     "home": {
-      "team": "STD",
-      "score": 100.4
+      "team": "DGR",
+      "score": 149.2
     },
-    "week": "Wk 9"
+    "week": "Wk 10"
   },
   {
     "away": {
       "team": "THUR",
-      "score": 103.1
+      "score": 110.2
     },
     "home": {
-      "team": "ALE",
-      "score": 104.4
+      "team": "LOG",
+      "score": 125.7
     },
-    "week": "Wk 9"
+    "week": "Wk 10"
+  },
+  {
+    "away": {
+      "team": "LOD",
+      "score": 82.8
+    },
+    "home": {
+      "team": "APL",
+      "score": 104.3
+    },
+    "week": "Wk 10"
   },
   {
     "away": {
       "team": "IS",
-      "score": 112.9
+      "score": 79.7
     },
     "home": {
-      "team": "LOD",
-      "score": 89
+      "team": "STD",
+      "score": 102.7
     },
-    "week": "Wk 9"
-  },
-  {
-    "away": {
-      "team": "LOG",
-      "score": 78.6
-    },
-    "home": {
-      "team": "APL",
-      "score": 111.9
-    },
-    "week": "Wk 9"
+    "week": "Wk 10"
   },
   {
     "away": {
       "team": "BIGD",
-      "score": 83.4
+      "score": 73.2
     },
     "home": {
-      "team": "DGR",
-      "score": 99.6
+      "team": "TNS",
+      "score": 86.5
     },
-    "week": "Wk 9"
+    "week": "Wk 10"
   }
 ]
