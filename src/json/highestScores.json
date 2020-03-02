@@ -352,6 +352,17 @@
     "week": 6
   },
   {
+    "score": 158.95,
+    "team": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "org": "THUR"
+    },
+    "year": 2019,
+    "week": 12
+  },
+  {
     "score": 158,
     "team": {
       "name": "The Legion of Doom",
@@ -396,6 +407,17 @@
     "week": 2
   },
   {
+    "score": 157.1,
+    "team": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "org": "THUR"
+    },
+    "year": 2019,
+    "week": "Rd 2"
+  },
+  {
     "score": 157,
     "team": {
       "name": "The Legion of Doom",
@@ -426,6 +448,17 @@
       "org": "THUR"
     },
     "year": 2009,
+    "week": "Rd 3"
+  },
+  {
+    "score": 156,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2019,
     "week": "Rd 3"
   },
   {

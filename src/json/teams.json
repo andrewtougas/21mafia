@@ -118,6 +118,15 @@
         "playoffs": true,
         "ptsFor": 1417.6,
         "ptsAgainst": 1200.9
+      },
+      {
+        "year": 2019,
+        "wins": 7,
+        "losses": 6,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 1426.35,
+        "ptsAgainst": 1336.45
       }
     ]
   },
@@ -240,6 +249,15 @@
         "playoffs": true,
         "ptsFor": 1499.8,
         "ptsAgainst": 1419
+      },
+      {
+        "year": 2019,
+        "wins": 5,
+        "losses": 8,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 1293.1,
+        "ptsAgainst": 1345.15
       }
     ]
   },
@@ -362,6 +380,15 @@
         "playoffs": true,
         "ptsFor": 1598.7,
         "ptsAgainst": 1433.4
+      },
+      {
+        "year": 2019,
+        "wins": 7,
+        "losses": 6,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 1280.6,
+        "ptsAgainst": 1393.15
       }
     ]
   },
@@ -484,6 +511,15 @@
         "playoffs": true,
         "ptsFor": 1185.8,
         "ptsAgainst": 1419
+      },
+      {
+        "year": 2019,
+        "wins": 9,
+        "losses": 4,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 1337.7,
+        "ptsAgainst": 1219.35
       }
     ]
   },
@@ -609,6 +645,15 @@
         "playoffs": false,
         "ptsFor": 1379.3,
         "ptsAgainst": 1544.2
+      },
+      {
+        "year": 2019,
+        "wins": 4,
+        "losses": 9,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 1335,
+        "ptsAgainst": 1500.9
       }
     ]
   },
@@ -731,6 +776,15 @@
         "playoffs": true,
         "ptsFor": 1405.6,
         "ptsAgainst": 1409.1
+      },
+      {
+        "year": 2019,
+        "wins": 5,
+        "losses": 8,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 1298.15,
+        "ptsAgainst": 1378.55
       }
     ]
   },
@@ -844,6 +898,15 @@
         "playoffs": true,
         "ptsFor": 1380.3,
         "ptsAgainst": 1469
+      },
+      {
+        "year": 2019,
+        "wins": 6,
+        "losses": 7,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 1330.15,
+        "ptsAgainst": 1392.2
       }
     ]
   },
@@ -957,6 +1020,15 @@
         "playoffs": true,
         "ptsFor": 1751.9,
         "ptsAgainst": 1470.6
+      },
+      {
+        "year": 2019,
+        "wins": 5,
+        "losses": 8,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 1229.5,
+        "ptsAgainst": 1291.95
       }
     ]
   },
@@ -1070,6 +1142,15 @@
         "playoffs": false,
         "ptsFor": 1294.4,
         "ptsAgainst": 1603.2
+      },
+      {
+        "year": 2019,
+        "wins": 7,
+        "losses": 6,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 1260.3,
+        "ptsAgainst": 1400.35
       }
     ]
   },
@@ -1183,6 +1264,15 @@
         "playoffs": true,
         "ptsFor": 1515.2,
         "ptsAgainst": 1460.2
+      },
+      {
+        "year": 2019,
+        "wins": 10,
+        "losses": 3,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 1705.2,
+        "ptsAgainst": 1238
       }
     ]
   },

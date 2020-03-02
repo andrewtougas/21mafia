@@ -581,5 +581,38 @@
     },
     "year": 2019,
     "week": "10"
+  },
+  {
+    "score": 54.6,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2019,
+    "week": "13"
+  },
+  {
+    "score": 45.35,
+    "team": {
+      "name": "Danger Ross",
+      "nickname": "Ross",
+      "abbr": "DGR",
+      "org": "DGR"
+    },
+    "year": 2019,
+    "week": "Rd 1"
+  },
+  {
+    "score": 59.9,
+    "team": {
+      "name": "American Craft Brewers",
+      "nickname": "Brewers",
+      "abbr": "ALE",
+      "org": "ALE"
+    },
+    "year": 2019,
+    "week": "Rd 3"
   }
 ]
