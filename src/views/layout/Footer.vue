@@ -28,7 +28,7 @@
           </div>
           <div class="uk-flex-bottom footer__copyright">
             <p>
-              Developed by <a href="#">andrewtougas.com</a> 
+              Developed by <a href="http://andrewtougas.com/" target="_blank">andrewtougas.com</a>
               <span class="uk-label uk-margin-small-left">{{ version }}</span>
             </p>
           </div>
