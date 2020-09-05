@@ -19,7 +19,7 @@
         <tbody>
           <tr :key="team.id" v-for="team in compiledStats">
             <td>
-              <a href="#">{{ team.name }}</a>
+              <a href="#off-canvas" @click="showOffCanvas(team)" uk-toggle>{{ team.name }}</a>
             </td>
             <td :key="year" v-for="year in years">
               {{ getTeamRecordForYear(team.id, year) }}
@@ -96,6 +96,9 @@ export default {
       const team = this.teams.filter(team => team.id == teamID)[0];
       const yearStats = team.history.filter(stats => stats.year === year)[0];
       return (typeof yearStats !== 'undefined') ? `${yearStats.wins}-${yearStats.losses}` : '';
+    },
+    showOffCanvas(team) {
+      this.$emit('home-toggle-off-canvas', team);
     }
   }
 }

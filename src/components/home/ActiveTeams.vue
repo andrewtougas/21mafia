@@ -7,7 +7,7 @@
             <a class="uk-accordion-title" href="">{{ team.name }}</a>
             <div class="uk-accordion-content">
               <small>{{ team.owners.map(owner => owner.name).join(', ') }}</small>
-              <a href="#my-id" class="uk-icon-button uk-float-right" uk-icon="icon: more; ratio: 0.7;" uk-toggle></a>
+              <a href="#off-canvas" class="uk-icon-button uk-float-right" @click="showOffCanvas(team)" uk-icon="icon: more; ratio: 0.7;" uk-toggle></a>
             </div>
           </li>
         </ul>
@@ -28,6 +28,11 @@ export default {
   computed: {
     activeTeams() {
       return this.teams.filter(team => team.active);
+    }
+  },
+  methods: {
+    showOffCanvas(team) {
+      this.$emit('home-toggle-off-canvas', team);
     }
   }
 }

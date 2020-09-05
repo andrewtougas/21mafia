@@ -3,11 +3,11 @@
     <div class="uk-offcanvas-content">
       <Header />
       <main>
-        <router-view />
+        <router-view @app-toggle-off-canvas="toggleOffCanvas" />
       </main>
       <Footer />
     </div>
-    <OffCanvas />
+    <OffCanvas :team="offCanvasTeam" />
   </div>
 </template>
 
@@ -22,6 +22,16 @@ export default {
     Header,
     Footer,
     OffCanvas
+  },
+  data() {
+    return {
+      offCanvasTeam: {}
+    }
+  },
+  methods: {
+    toggleOffCanvas(team) {
+      this.offCanvasTeam = team;
+    }
   }
 }
 </script>
