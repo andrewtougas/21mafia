@@ -27,7 +27,6 @@
 </template>
 
 <script>
-
 export default {
   name: "OffCanvas",
   props: ["team"],
