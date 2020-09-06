@@ -22,7 +22,7 @@
                 <router-link to="/teams-vs-opponents">Teams vs Opponents</router-link>
               </li>
               <li>
-                <a href="/Finger_Puppet_Mafia_By-Laws_v2019.pdf" target="_blank">21 Mafia By-laws <span uk-icon="arrow-right"></span></a>
+                <a :href="`${publicPath}Finger_Puppet_Mafia_By-Laws_v2019.pdf`" target="_blank">21 Mafia By-laws <span uk-icon="arrow-right"></span></a>
               </li>
             </ul>
           </div>
@@ -43,7 +43,8 @@ export default {
   name: "appFooter",
   data() {
     return {
-      version: process.env.VUE_APP_VERSION
+      version: process.env.VUE_APP_VERSION,
+      publicPath: process.env.BASE_URL
     }
   }
 }
