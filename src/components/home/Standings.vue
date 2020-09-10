@@ -1,13 +1,13 @@
 <template>
   <section class="uk-section uk-section-small home-standings">
     <h2>League Standings</h2>
-    <div>
+    <div class="home-standings__wrapper">
       <table class="uk-table uk-table-striped uk-table-small">
         <thead>
           <tr>
-            <th>Name</th>
-            <th :key="year" v-for="year in years">{{ year }}</th>
-            <th class="uk-text-right">Avg. Rank</th>
+            <th @click="sort('name')">Name</th>
+            <th @click="sort(`year-${year}`)" :key="year" v-for="year in years">{{ year }}</th>
+            <th @click="sort('avgRank')" class="uk-text-right">Avg. Rank</th>
           </tr>
         </thead>
         <tbody>
@@ -35,6 +35,8 @@ export default {
   props: ["years"],
   data() {
     return {
+      currentSort: "avgRank",
+      currentSortDir: "asc",
       teams: teams
     }
   },
@@ -51,7 +53,15 @@ export default {
         const avgRank = (totalRank / team.history.length).toFixed(3);
         team.avgRank = avgRank;
       });
-      return _.orderBy(activeTeams, ['avgRank'], ['asc']);
+
+      if (this.currentSort.indexOf('year') === 0) {
+        const sortYear = parseInt(this.currentSort.substr(5));
+        return _.orderBy(activeTeams, function(item) {
+          const sortYearArr = item.history.filter(year => year.year === sortYear);
+          return (sortYearArr.length) ? sortYearArr[0].rank : 0;
+        }, [this.currentSortDir]);
+      }
+      return _.orderBy(activeTeams, [this.currentSort], [this.currentSortDir]);
     }
   },
   methods: {
@@ -59,6 +69,14 @@ export default {
       const team = this.teams.filter(team => team.id == teamID)[0];
       const yearStats = team.history.filter(stats => stats.year === year)[0];
       return (typeof yearStats !== 'undefined') ? yearStats.rank : '';
+    },
+    sort(col) {
+      if (col === this.currentSort) {
+        this.currentSortDir = this.currentSortDir === 'asc' ? 'desc' : 'asc';
+      } else {
+        this.currentSortDir = 'asc';
+      }
+      this.currentSort = col;
     },
     showOffCanvas(team) {
       this.$emit('home-toggle-off-canvas', team);
@@ -69,8 +87,18 @@ export default {
 
 <style lang="scss" scoped>
 .home-standings {
+  &__wrapper {
+    max-width: 100%;
+    overflow-x: scroll;
+    table {
+      width: 120%;
+    }
+  }
   table {
     font-size: .875rem;
+    th {
+      cursor: pointer;
+    }
   }
 }
 </style>

@@ -5,15 +5,15 @@
       <table class="uk-table uk-table-striped uk-table-small">
         <thead>
           <tr>
-            <th>Name</th>
-            <th :key="year" v-for="year in years">{{ year }}</th>
-            <th>Total</th>
-            <th class="uk-text-right">Win %</th>
-            <th class="uk-text-right"><span uk-tooltip="title: Points For; pos: top-right">PF</span></th>
-            <th class="uk-text-right"><span uk-tooltip="title: Points Against; pos: top-right">PA</span></th>
-            <th class="uk-text-right"><span uk-tooltip="title: Points Differential; pos: top-right">+/-</span></th>
-            <th class="uk-text-right"><span uk-tooltip="title: Playoff Appearances; pos: top-right">PlA</span></th>
-            <th class="uk-text-right">Avg. Rank</th>
+            <th @click="sort('name')">Name</th>
+            <th @click="sort(`year-${year}`)" :key="year" v-for="year in years">{{ year }}</th>
+            <th @click="sort('total.wins')">Total</th>
+            <th @click="sort('winPercentage')" class="uk-text-right">Win %</th>
+            <th @click="sort('total.ptsFor')" class="uk-text-right"><span uk-tooltip="title: Points For; pos: top-right">PF</span></th>
+            <th @click="sort('total.ptsAgainst')" class="uk-text-right"><span uk-tooltip="title: Points Against; pos: top-right">PA</span></th>
+            <th @click="sort('ptsDiff')" class="uk-text-right"><span uk-tooltip="title: Points Differential; pos: top-right">+/-</span></th>
+            <th @click="sort('playoffAppearances')" class="uk-text-right"><span uk-tooltip="title: Playoff Appearances; pos: top-right">PlA</span></th>
+            <th @click="sort('avgRank')" class="uk-text-right">Avg. Rank</th>
           </tr>
         </thead>
         <tbody>
@@ -29,10 +29,10 @@
             <td class="uk-text-right">{{ team.total.ptsFor.toFixed(1) }}</td>
             <td class="uk-text-right">{{ team.total.ptsAgainst.toFixed(1) }}</td>
             <td class="uk-text-right" :class="{ 'uk-text-success': team.ptsDiff > 0, 'uk-text-danger': team.ptsDiff < 0 }">
-              {{ (team.ptsDiff > 0) ? `+${team.ptsDiff}` : team.ptsDiff }}
+              {{ (team.ptsDiff > 0) ? `+${team.ptsDiff.toFixed(1)}` : team.ptsDiff.toFixed(1) }}
             </td>
             <td class="uk-text-right">{{ team.playoffAppearances }}</td>
-            <td class="uk-text-right">{{ team.avgRank }}</td>
+            <td class="uk-text-right">{{ team.avgRank.toFixed(3) }}</td>
           </tr>
         </tbody>
       </table>
@@ -49,6 +49,8 @@ export default {
   props: ["years"],
   data() {
     return {
+      currentSort: "winPercentage",
+      currentSortDir: "desc",
       teams: teams
     }
   },
@@ -76,10 +78,10 @@ export default {
 
         // Calculate average rank for each team
         const totalRank = team.history.reduce((acc, cur) => acc + cur.rank, 0);
-        const avgRank = (totalRank / team.history.length).toFixed(3);
+        const avgRank = totalRank / team.history.length;
 
         // Calculate points differential
-        const ptsDiff = (teamTotals.ptsFor - teamTotals.ptsAgainst).toFixed(1);
+        const ptsDiff = teamTotals.ptsFor - teamTotals.ptsAgainst;
 
         // Add new compiled stats to team object
         team.total = teamTotals;
@@ -88,7 +90,15 @@ export default {
         team.avgRank = avgRank;
         team.ptsDiff = ptsDiff;
       });
-      return _.orderBy(activeTeams, ['winPercentage'], ['desc']);
+
+      if (this.currentSort.indexOf('year') === 0) {
+        const sortYear = parseInt(this.currentSort.substr(5));
+        return _.orderBy(activeTeams, function(item) {
+          const sortYearArr = item.history.filter(year => year.year === sortYear);
+          return (sortYearArr.length) ? sortYearArr[0].wins : 0;
+        }, [this.currentSortDir]);
+      }
+      return _.orderBy(activeTeams, [this.currentSort], [this.currentSortDir]);
     }
   },
   methods: {
@@ -96,6 +106,14 @@ export default {
       const team = this.teams.filter(team => team.id == teamID)[0];
       const yearStats = team.history.filter(stats => stats.year === year)[0];
       return (typeof yearStats !== 'undefined') ? `${yearStats.wins}-${yearStats.losses}` : '';
+    },
+    sort(col) {
+      if (col === this.currentSort) {
+        this.currentSortDir = this.currentSortDir === 'asc' ? 'desc' : 'asc';
+      } else {
+        this.currentSortDir = 'asc';
+      }
+      this.currentSort = col;
     },
     showOffCanvas(team) {
       this.$emit('home-toggle-off-canvas', team);
@@ -115,6 +133,9 @@ export default {
   }
   table {
     font-size: .875rem;
+    th {
+      cursor: pointer;
+    }
   }
 }
 </style>
