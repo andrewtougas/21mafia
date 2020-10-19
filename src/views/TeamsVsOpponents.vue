@@ -23,7 +23,7 @@
             <td class="team-name">Brewers</td>
             <td class="unplayed"></td> <!-- Brewers -->
             <td>(14-13)</td> <!-- Doom -->
-            <td class="unplayed">(9-5)</td> <!-- Flush -->
+            <td>(10-5)</td> <!-- Flush -->
             <td class="unplayed">(15-11)</td> <!-- Ross -->
             <td class="unplayed">(8-6)</td> <!-- Raiders -->
             <td>(7-8)</td> <!-- Steamers -->
@@ -42,12 +42,12 @@
             <td class="unplayed">(9-5)</td> <!-- Steamers -->
             <td>(10-3)</td> <!-- Bloods -->
             <td class="unplayed">(13-11)</td> <!-- Strong -->
-            <td class="unplayed">(14-10)</td> <!-- Pipeline -->
+            <td>(14-11)</td> <!-- Pipeline -->
             <td>(5-8)</td> <!-- Shockers -->
           </tr>
           <tr>
             <td class="team-name">Flush</td>
-            <td class="unplayed">(5-9)</td> <!-- Brewers -->
+            <td>(5-10)</td> <!-- Brewers -->
             <td class="unplayed">(7-7)</td> <!-- Doom -->
             <td class="unplayed"></td> <!-- Flush -->
             <td class="unplayed">(5-9)</td> <!-- Ross -->
@@ -67,7 +67,7 @@
             <td>(10-5)</td> <!-- Raiders -->
             <td class="unplayed">(6-8)</td> <!-- Steamers -->
             <td class="unplayed">(4-8)</td> <!-- Bloods -->
-            <td class="unplayed">(12-12)</td> <!-- Strong -->
+            <td>(12-13)</td> <!-- Strong -->
             <td>(13-12)</td> <!-- Pipeline -->
             <td>(5-8)</td> <!-- Shockers -->
           </tr>
@@ -82,7 +82,7 @@
             <td>(10-15)</td> <!-- Bloods -->
             <td class="unplayed">(5-7)</td> <!-- Strong -->
             <td>(8-5)</td> <!-- Pipeline -->
-            <td class="unplayed">(12-12)</td> <!-- Shockers -->
+            <td>(13-12)</td> <!-- Shockers -->
           </tr>
           <tr>
             <td class="team-name">Steamers</td>
@@ -92,7 +92,7 @@
             <td class="unplayed">(8-6)</td> <!-- Ross -->
             <td class="unplayed">(9-17)</td> <!-- Raiders -->
             <td class="unplayed"></td> <!-- Steamers -->
-            <td class="unplayed">(12-12)</td> <!-- Bloods -->
+            <td>(12-13)</td> <!-- Bloods -->
             <td>(11-2)</td> <!-- Strong -->
             <td class="unplayed">(6-6)</td> <!-- Pipeline -->
             <td>(9-16)</td> <!-- Shockers -->
@@ -104,7 +104,7 @@
             <td>(16-9)</td> <!-- Flush -->
             <td class="unplayed">(8-4)</td> <!-- Ross -->
             <td>(15-10)</td> <!-- Raiders -->
-            <td class="unplayed">(12-12)</td> <!-- Steamers -->
+            <td>(13-12)</td> <!-- Steamers -->
             <td class="unplayed"></td> <!-- Bloods -->
             <td class="unplayed">(8-4)</td> <!-- Strong -->
             <td class="unplayed">(6-6)</td> <!-- Pipeline -->
@@ -115,7 +115,7 @@
             <td>(12-13)</td> <!-- Brewers -->
             <td class="unplayed">(11-13)</td> <!-- Doom -->
             <td>(6-7)</td> <!-- Flush -->
-            <td class="unplayed">(12-12)</td> <!-- Ross -->
+            <td>(13-12)</td> <!-- Ross -->
             <td class="unplayed">(7-5)</td> <!-- Raiders -->
             <td>(2-11)</td> <!-- Steamers -->
             <td class="unplayed">(4-8)</td> <!-- Bloods -->
@@ -126,7 +126,7 @@
           <tr>
             <td class="team-name">Pipeline</td>
             <td>(16-9)</td> <!-- Brewers -->
-            <td class="unplayed">(10-14)</td> <!-- Doom -->
+            <td>(11-14)</td> <!-- Doom -->
             <td class="unplayed">(6-6)</td> <!-- Flush -->
             <td>(12-13)</td> <!-- Ross -->
             <td>(5-8)</td> <!-- Raiders -->
@@ -142,7 +142,7 @@
             <td>(8-5)</td> <!-- Doom -->
             <td class="unplayed">(17-7)</td> <!-- Flush -->
             <td>(8-5)</td> <!-- Ross -->
-            <td class="unplayed">(12-12)</td> <!-- Raiders -->
+            <td>(12-13)</td> <!-- Raiders -->
             <td>(16-9)</td> <!-- Steamers -->
             <td>(13-12)</td> <!-- Bloods -->
             <td class="unplayed">(6-6)</td> <!-- Strong -->
