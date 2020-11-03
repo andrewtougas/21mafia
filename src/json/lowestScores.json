@@ -614,5 +614,16 @@
     },
     "year": 2019,
     "week": "Rd 3"
+  },
+  {
+    "score": 48.1,
+    "team": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "org": "THUR"
+    },
+    "year": 2020,
+    "week": "8"
   }
 ]
