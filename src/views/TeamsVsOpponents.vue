@@ -28,7 +28,7 @@
             <td>(8-7)</td> <!-- Raiders -->
             <td>(7-8)</td> <!-- Steamers -->
             <td>(7-6)</td> <!-- Bloods -->
-            <td>(13-12)</td> <!-- Strong -->
+            <td>(14-12)</td> <!-- Strong -->
             <td>(9-16)</td> <!-- Pipeline -->
             <td>(8-5)</td> <!-- Shockers -->
           </tr>
@@ -38,7 +38,7 @@
             <td class="unplayed"></td> <!-- Doom -->
             <td>(7-8)</td> <!-- Flush -->
             <td>(17-11)</td> <!-- Ross -->
-            <td class="unplayed">(7-7)</td> <!-- Raiders -->
+            <td>(8-7)</td> <!-- Raiders -->
             <td class="unplayed">(9-5)</td> <!-- Steamers -->
             <td>(10-3)</td> <!-- Bloods -->
             <td>(13-12)</td> <!-- Strong -->
@@ -53,7 +53,7 @@
             <td class="unplayed">(5-9)</td> <!-- Ross -->
             <td>(11-16)</td> <!-- Raiders -->
             <td>(15-13)</td> <!-- Steamers -->
-            <td>(9-16)</td> <!-- Bloods -->
+            <td>(10-16)</td> <!-- Bloods -->
             <td>(7-6)</td> <!-- Strong -->
             <td>(6-7)</td> <!-- Pipeline -->
             <td>(7-18)</td> <!-- Shockers -->
@@ -65,7 +65,7 @@
             <td class="unplayed">(9-5)</td> <!-- Flush -->
             <td class="unplayed"></td> <!-- Ross -->
             <td>(10-5)</td> <!-- Raiders -->
-            <td class="unplayed">(6-8)</td> <!-- Steamers -->
+            <td>(6-9)</td> <!-- Steamers -->
             <td>(4-9)</td> <!-- Bloods -->
             <td>(12-14)</td> <!-- Strong -->
             <td>(13-13)</td> <!-- Pipeline -->
@@ -74,7 +74,7 @@
           <tr>
             <td class="team-name">Raiders</td>
             <td>(7-8)</td> <!-- Brewers -->
-            <td class="unplayed">(7-7)</td> <!-- Doom -->
+            <td>(7-8)</td> <!-- Doom -->
             <td>(16-11)</td> <!-- Flush -->
             <td>(5-10)</td> <!-- Ross -->
             <td class="unplayed"></td> <!-- Raiders -->
@@ -89,7 +89,7 @@
             <td>(8-7)</td> <!-- Brewers -->
             <td class="unplayed">(5-9)</td> <!-- Doom -->
             <td>(13-15)</td> <!-- Flush -->
-            <td class="unplayed">(8-6)</td> <!-- Ross -->
+            <td>(9-6)</td> <!-- Ross -->
             <td>(10-18)</td> <!-- Raiders -->
             <td class="unplayed"></td> <!-- Steamers -->
             <td>(12-13)</td> <!-- Bloods -->
@@ -101,7 +101,7 @@
             <td class="team-name">Bloods</td>
             <td>(6-7)</td> <!-- Brewers -->
             <td>(3-10)</td> <!-- Doom -->
-            <td>(16-9)</td> <!-- Flush -->
+            <td>(16-10)</td> <!-- Flush -->
             <td>(9-4)</td> <!-- Ross -->
             <td>(15-10)</td> <!-- Raiders -->
             <td>(13-12)</td> <!-- Steamers -->
@@ -112,7 +112,7 @@
           </tr>
           <tr>
             <td class="team-name">Strong</td>
-            <td>(12-13)</td> <!-- Brewers -->
+            <td>(12-14)</td> <!-- Brewers -->
             <td>(12-13)</td> <!-- Doom -->
             <td>(6-7)</td> <!-- Flush -->
             <td>(14-12)</td> <!-- Ross -->
@@ -134,7 +134,7 @@
             <td class="unplayed">(6-6)</td> <!-- Bloods -->
             <td>(12-14)</td> <!-- Strong -->
             <td class="unplayed"></td> <!-- Pipeline -->
-            <td class="unplayed">(3-9)</td> <!-- Shockers -->
+            <td>(3-10)</td> <!-- Shockers -->
           </tr>
           <tr>
             <td class="team-name">Shockers</td>
@@ -146,7 +146,7 @@
             <td>(16-9)</td> <!-- Steamers -->
             <td>(13-13)</td> <!-- Bloods -->
             <td class="unplayed">(6-6)</td> <!-- Strong -->
-            <td class="unplayed">(9-3)</td> <!-- Pipeline -->
+            <td>(10-3)</td> <!-- Pipeline -->
             <td class="unplayed"></td> <!-- Shockers -->
           </tr>
         </tbody>

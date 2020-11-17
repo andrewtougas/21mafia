@@ -625,5 +625,16 @@
     },
     "year": 2020,
     "week": "8"
+  },
+  {
+    "score": 39.1,
+    "team": {
+      "name": "Alaskan Pipeline",
+      "nickname": "Pipeline",
+      "abbr": "APL",
+      "org": "APL"
+    },
+    "year": 2020,
+    "week": "10"
   }
 ]
