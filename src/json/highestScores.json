@@ -187,6 +187,17 @@
     "week": 2
   },
   {
+    "score": 169.4,
+    "team": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "org": "IS"
+    },
+    "year": 2020,
+    "week": 12
+  },
+  {
     "score": 168.8,
     "team": {
       "name": "Island Strong",
@@ -218,6 +229,17 @@
     },
     "year": 2016,
     "week": 1
+  },
+  {
+    "score": 164.9,
+    "team": {
+      "name": "American Craft Brewers",
+      "nickname": "Brewers",
+      "abbr": "ALE",
+      "org": "ALE"
+    },
+    "year": 2020,
+    "week": 12
   },
   {
     "score": 164.6,
@@ -427,6 +449,17 @@
     },
     "year": 2018,
     "week": "Rd 3"
+  },
+  {
+    "score": 156.5,
+    "team": {
+      "name": "Capehart Bloods",
+      "nickname": "Bloods",
+      "abbr": "BIGD",
+      "org": "BIGD"
+    },
+    "year": 2020,
+    "week": 12
   },
   {
     "score": 156.4,

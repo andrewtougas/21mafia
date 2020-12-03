@@ -1,57 +1,57 @@
 [
   {
     "away": {
+      "team": "THUR",
+      "score": 89.55
+    },
+    "home": {
+      "team": "IS",
+      "score": 169.4
+    },
+    "week": "Wk 12"
+  },
+  {
+    "away": {
       "team": "ALE",
-      "score": 139.9
-    },
-    "home": {
-      "team": "DGR",
-      "score": 138.05
-    },
-    "week": "Wk 11"
-  },
-  {
-    "away": {
-      "team": "BIGD",
-      "score": 121.45
-    },
-    "home": {
-      "team": "TNS",
-      "score": 98.85
-    },
-    "week": "Wk 11"
-  },
-  {
-    "away": {
-      "team": "LOD",
-      "score": 109.05
+      "score": 164.9
     },
     "home": {
       "team": "APL",
-      "score": 94.7
+      "score": 61.85
     },
-    "week": "Wk 11"
+    "week": "Wk 12"
   },
   {
     "away": {
-      "team": "THUR",
-      "score": 105.8
-    },
-    "home": {
-      "team": "LOG",
-      "score": 107.75
-    },
-    "week": "Wk 11"
-  },
-  {
-    "away": {
-      "team": "IS",
-      "score": 97.9
-    },
-    "home": {
       "team": "STD",
-      "score": 67.9
+      "score": 58.35
     },
-    "week": "Wk 11"
+    "home": {
+      "team": "BIGD",
+      "score": 156.6
+    },
+    "week": "Wk 12"
+  },
+  {
+    "away": {
+      "team": "TNS",
+      "score": 96.4
+    },
+    "home": {
+      "team": "LOD",
+      "score": 110.75
+    },
+    "week": "Wk 12"
+  },
+  {
+    "away": {
+      "team": "LOG",
+      "score": 92.75
+    },
+    "home": {
+      "team": "DGR",
+      "score": 86.85
+    },
+    "week": "Wk 12"
   }
 ]
