@@ -330,6 +330,17 @@
     "week": 8
   },
   {
+    "score": 159.25,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2020,
+    "week": 13
+  },
+  {
     "score": 159.2,
     "team": {
       "name": "Alaskan Pipeline",
