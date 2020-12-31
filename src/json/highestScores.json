@@ -55,6 +55,17 @@
     "week": 9
   },
   {
+    "score": 182.8,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2020,
+    "week": "Rd 3"
+  },
+  {
     "score": 176.1,
     "team": {
       "name": "The Legion of Doom",
@@ -394,6 +405,17 @@
     },
     "year": 2019,
     "week": 12
+  },
+  {
+    "score": 158.45,
+    "team": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "org": "LOD"
+    },
+    "year": 2020,
+    "week": "Rd 2"
   },
   {
     "score": 158,

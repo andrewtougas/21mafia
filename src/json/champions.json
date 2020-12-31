@@ -76,5 +76,11 @@
     "team": "Alaskan Pipeline",
     "nickname": "Pipeline",
     "abbr": "APL"
+  },
+  {
+    "year": 2020,
+    "team": "American Craft Brewers",
+    "nickname": "Brewers",
+    "abbr": "ALE"
   }
 ]

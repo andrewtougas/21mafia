@@ -80,6 +80,22 @@
     }
   },
   {
+    "year": 2020,
+    "week": "Rd 3",
+    "winningTeam": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "score": 182.8
+    },
+    "losingTeam": {
+      "name": "The Legion of Doom",
+      "nickname": "Doom",
+      "abbr": "LOD",
+      "score": 125.6
+    }
+  },
+  {
     "year": 2014,
     "week": 8,
     "winningTeam": {
