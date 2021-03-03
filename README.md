@@ -1,6 +1,6 @@
 # 21 Mafia
 
-This website tracks historical stats, standings, and records for the [21 Mafia](http://21mafia.andrewtougas.com) fantasy football league. The site was built with Vue CLI and uses Vue.js.
+A web app for tracking historical stats, standings, and records for the [21 Mafia](http://21mafia.andrewtougas.com) Fantasy Football League. The site was built with Vue CLI and uses Vue.js.
 
 ## Project Setup
 

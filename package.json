@@ -1,8 +1,8 @@
 {
   "name": "21mafia",
   "version": "2.0.0",
-  "homepage": "https://gitlab.com/andrewtougas/21mafia",
-  "description": "A website with historical stats, standings, and records for the 21 Mafia fantasy football league",
+  "homepage": "https://github.com/andrewtougas/21mafia",
+  "description": "Web app for tracking history and stats of the 21 Mafia Fantasy Football League",
   "author": "Andrew Tougas <andrewhtougas@gmail.com> (http://andrewtougas.com)",
   "private": true,
   "scripts": {
