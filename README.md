@@ -27,6 +27,14 @@ Currently, this process is done by building and compiling the production-ready c
 npm run build
 ```
 
+### Deploying to Github Pages
+
+Run the following command which will build the web app for production and publish on [Github Pages](https://andrewtougas.github.io/21mafia/):
+
+```
+npm run deploy
+```
+
 ## Built with and uses
 
 [Vue.js](https://vuejs.org/v2/guide/) - A progressive framework for building UI  
