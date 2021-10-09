@@ -1,57 +1,57 @@
 [
   {
     "away": {
-      "team": "ALE",
-      "score": 147.7
-    },
-    "home": {
-      "team": "THUR",
-      "score": 104.75
-    },
-    "week": "Championship"
-  },
-  {
-    "away": {
       "team": "LOD",
-      "score": 125.6
+      "score": 101
     },
     "home": {
-      "team": "LOG",
-      "score": 182.8
+      "team": "IS",
+      "score": 154.8
     },
-    "week": "Consolation"
+    "week": "Wk 4"
   },
   {
     "away": {
-      "team": "IS",
-      "score": 97.1
+      "team": "THUR",
+      "score": 137.7
     },
     "home": {
       "team": "BIGD",
-      "score": 78.5
+      "score": 128.5
     },
-    "week": "Consolation"
+    "week": "Wk 4"
   },
   {
     "away": {
-      "team": "TNS",
-      "score": 120.95
+      "team": "LOG",
+      "score": 116.7
     },
     "home": {
-      "team": "APL",
-      "score": 81.65
+      "team": "TNS",
+      "score": 98.5
     },
-    "week": "Consolation"
+    "week": "Wk 4"
   },
   {
     "away": {
       "team": "DGR",
-      "score": 94.55
+      "score": 94.5
+    },
+    "home": {
+      "team": "APL",
+      "score": 104.95
+    },
+    "week": "Wk 4"
+  },
+  {
+    "away": {
+      "team": "ALE",
+      "score": 76.25
     },
     "home": {
       "team": "STD",
-      "score": 71.05
+      "score": 81.05
     },
-    "week": "Turd Burglar"
+    "week": "Wk 4"
   }
 ]
