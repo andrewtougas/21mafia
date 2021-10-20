@@ -26,9 +26,9 @@
       "playedThisSeason": false
     },
     "bloods": {
-      "wins": 7,
+      "wins": 8,
       "losses": 6,
-      "playedThisSeason": false
+      "playedThisSeason": true
     },
     "strong": {
       "wins": 15,
@@ -63,9 +63,9 @@
       "playedThisSeason": true
     },
     "raiders": {
-      "wins": 8,
+      "wins": 9,
       "losses": 7,
-      "playedThisSeason": false
+      "playedThisSeason": true
     },
     "steamers": {
       "wins": 10,
@@ -130,9 +130,9 @@
       "playedThisSeason": false
     },
     "pipeline": {
-      "wins": 6,
+      "wins": 7,
       "losses": 7,
-      "playedThisSeason": false
+      "playedThisSeason": true
     },
     "shockers": {
       "wins": 8,
@@ -182,9 +182,9 @@
       "playedThisSeason": true
     },
     "shockers": {
-      "wins": 5,
+      "wins": 6,
       "losses": 8,
-      "playedThisSeason": false
+      "playedThisSeason": true
     }
   },
   "raiders": {
@@ -195,8 +195,8 @@
     },
     "doom": {
       "wins": 7,
-      "losses": 8,
-      "playedThisSeason": false
+      "losses": 9,
+      "playedThisSeason": true
     },
     "flush": {
       "wins": 16,
@@ -267,8 +267,8 @@
     },
     "strong": {
       "wins": 11,
-      "losses": 2,
-      "playedThisSeason": false
+      "losses": 3,
+      "playedThisSeason": true
     },
     "pipeline": {
       "wins": 7,
@@ -284,8 +284,8 @@
   "bloods": {
     "brewers": {
       "wins": 6,
-      "losses": 7,
-      "playedThisSeason": false
+      "losses": 8,
+      "playedThisSeason": true
     },
     "doom": {
       "wins": 3,
@@ -355,9 +355,9 @@
       "playedThisSeason": false
     },
     "steamers": {
-      "wins": 2,
+      "wins": 3,
       "losses": 11,
-      "playedThisSeason": false
+      "playedThisSeason": true
     },
     "bloods": {
       "wins": 4,
@@ -388,8 +388,8 @@
     },
     "flush": {
       "wins": 7,
-      "losses": 6,
-      "playedThisSeason": false
+      "losses": 7,
+      "playedThisSeason": true
     },
     "ross": {
       "wins": 14,
@@ -440,8 +440,8 @@
     },
     "ross": {
       "wins": 8,
-      "losses": 5,
-      "playedThisSeason": false
+      "losses": 6,
+      "playedThisSeason": true
     },
     "raiders": {
       "wins": 13,
