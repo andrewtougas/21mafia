@@ -22,8 +22,8 @@
     },
     "steamers": {
       "wins": 7,
-      "losses": 8,
-      "playedThisSeason": false
+      "losses": 9,
+      "playedThisSeason": true
     },
     "bloods": {
       "wins": 8,
@@ -74,8 +74,8 @@
     },
     "bloods": {
       "wins": 10,
-      "losses": 3,
-      "playedThisSeason": false
+      "losses": 4,
+      "playedThisSeason": true
     },
     "strong": {
       "wins": 14,
@@ -125,9 +125,9 @@
       "playedThisSeason": true
     },
     "strong": {
-      "wins": 7,
+      "wins": 8,
       "losses": 6,
-      "playedThisSeason": false
+      "playedThisSeason": true
     },
     "pipeline": {
       "wins": 7,
@@ -158,8 +158,8 @@
     },
     "raiders": {
       "wins": 10,
-      "losses": 5,
-      "playedThisSeason": false
+      "losses": 6,
+      "playedThisSeason": true
     },
     "steamers": {
       "wins": 6,
@@ -204,9 +204,9 @@
       "playedThisSeason": true
     },
     "ross": {
-      "wins": 5,
+      "wins": 6,
       "losses": 10,
-      "playedThisSeason": false
+      "playedThisSeason": true
     },
     "steamers": {
       "wins": 18,
@@ -236,9 +236,9 @@
   },
   "steamers": {
     "brewers": {
-      "wins": 8,
+      "wins": 9,
       "losses": 7,
-      "playedThisSeason": false
+      "playedThisSeason": true
     },
     "doom": {
       "wins": 5,
@@ -288,9 +288,9 @@
       "playedThisSeason": true
     },
     "doom": {
-      "wins": 3,
+      "wins": 4,
       "losses": 10,
-      "playedThisSeason": false
+      "playedThisSeason": true
     },
     "flush": {
       "wins": 17,
@@ -341,8 +341,8 @@
     },
     "flush": {
       "wins": 6,
-      "losses": 7,
-      "playedThisSeason": false
+      "losses": 8,
+      "playedThisSeason": true
     },
     "ross": {
       "wins": 14,
@@ -417,9 +417,9 @@
       "playedThisSeason": true
     },
     "shockers": {
-      "wins": 3,
+      "wins": 4,
       "losses": 10,
-      "playedThisSeason": false
+      "playedThisSeason": true
     }
   },
   "shockers": {
@@ -465,8 +465,8 @@
     },
     "pipeline": {
       "wins": 10,
-      "losses": 3,
-      "playedThisSeason": false
+      "losses": 4,
+      "playedThisSeason": true
     }
   }
 }
