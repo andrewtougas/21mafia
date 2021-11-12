@@ -636,5 +636,16 @@
     },
     "year": 2020,
     "week": "10"
+  },
+  {
+    "score": 59.7,
+    "team": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "org": "IS"
+    },
+    "year": 2021,
+    "week": "9"
   }
 ]
