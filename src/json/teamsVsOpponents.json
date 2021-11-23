@@ -11,7 +11,7 @@
       "playedThisSeason": true
     },
     "ross": {
-      "wins": 18,
+      "wins": 19,
       "losses": 11,
       "playedThisSeason": true
     },
@@ -53,9 +53,9 @@
       "playedThisSeason": true
     },
     "flush": {
-      "wins": 7,
+      "wins": 8,
       "losses": 8,
-      "playedThisSeason": false
+      "playedThisSeason": true
     },
     "ross": {
       "wins": 17,
@@ -101,8 +101,8 @@
     },
     "doom": {
       "wins": 8,
-      "losses": 7,
-      "playedThisSeason": false
+      "losses": 8,
+      "playedThisSeason": true
     },
     "ross": {
       "wins": 6,
@@ -143,7 +143,7 @@
   "ross": {
     "brewers": {
       "wins": 11,
-      "losses": 18,
+      "losses": 19,
       "playedThisSeason": true
     },
     "doom": {
@@ -215,7 +215,7 @@
     },
     "bloods": {
       "wins": 10,
-      "losses": 17,
+      "losses": 18,
       "playedThisSeason": true
     },
     "strong": {
@@ -277,7 +277,7 @@
     },
     "shockers": {
       "wins": 9,
-      "losses": 18,
+      "losses": 19,
       "playedThisSeason": true
     }
   },
@@ -303,7 +303,7 @@
       "playedThisSeason": true
     },
     "raiders": {
-      "wins": 17,
+      "wins": 18,
       "losses": 10,
       "playedThisSeason": true
     },
@@ -366,7 +366,7 @@
     },
     "pipeline": {
       "wins": 14,
-      "losses": 13,
+      "losses": 14,
       "playedThisSeason": true
     },
     "shockers": {
@@ -412,7 +412,7 @@
       "playedThisSeason": true
     },
     "strong": {
-      "wins": 13,
+      "wins": 14,
       "losses": 14,
       "playedThisSeason": true
     },
@@ -449,7 +449,7 @@
       "playedThisSeason": true
     },
     "steamers": {
-      "wins": 18,
+      "wins": 19,
       "losses": 9,
       "playedThisSeason": true
     },

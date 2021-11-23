@@ -647,5 +647,27 @@
     },
     "year": 2021,
     "week": "9"
+  },
+  {
+    "score": 57,
+    "team": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "org": "IS"
+    },
+    "year": 2021,
+    "week": "11"
+  },
+  {
+    "score": 56,
+    "team": {
+      "name": "The Courtesy Flush",
+      "nickname": "Flush",
+      "abbr": "LOG",
+      "org": "LOG"
+    },
+    "year": 2021,
+    "week": "11"
   }
 ]

@@ -177,6 +177,22 @@
   },
   {
     "year": 2021,
+    "week": 11,
+    "winningTeam": {
+      "name": "The Shockers",
+      "nickname": "Shockers",
+      "abbr": "THUR",
+      "score": 149.25
+    },
+    "losingTeam": {
+      "name": "The Nasty Steamers",
+      "nickname": "Steamers",
+      "abbr": "TNS",
+      "score": 143.3
+    }
+  },
+  {
+    "year": 2021,
     "week": 5,
     "winningTeam": {
       "name": "The Nasty Steamers",
