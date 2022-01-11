@@ -20,11 +20,14 @@ npm run serve
 
 ## Deployment
 
-Currently, this process is done by building and compiling the production-ready code and then manually transfering the resulting distrubution directory to the live server. This process should be streamlined using CI/CD to automatically build/compile the code and push to live server on every master branch commit.
+The process for deploying production-quality code to both the live server and to Github Pages has been streamlined via NPM scripts.
 
-### Compiles and minifies for production
+### Deploying to Live Server
+
+Run the following command to build the web app for production and publish to the [live server](http://21mafia.andrewtougas.com):
+
 ```
-npm run build
+npm run deploy
 ```
 
 ### Deploying to Github Pages
@@ -32,7 +35,12 @@ npm run build
 Run the following command which will build the web app for production and publish on [Github Pages](https://andrewtougas.github.io/21mafia/):
 
 ```
-npm run deploy
+npm run deploy-githubpages
+```
+
+#### Compiles and minifies for production
+```
+npm run build
 ```
 
 ## Built with and uses
