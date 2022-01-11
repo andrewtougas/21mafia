@@ -128,7 +128,7 @@ export default {
     max-width: 100%;
     overflow-x: scroll;
     table {
-      width: 150%;
+      width: 160%;
     }
   }
   table {
