@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file. Note: the f
 #### Changed:
 
   - NPM script functionality for deploying production build to Github Pages
+  - Display app version from `package.json` instead of `.env` variable
 
 ## [2.0.1] - 2021-10-09
 #### Added:
