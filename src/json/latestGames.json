@@ -1,57 +1,57 @@
 [
   {
     "away": {
+      "team": "LOD",
+      "score": 94.1
+    },
+    "home": {
+      "team": "LOG",
+      "score": 127.3
+    },
+    "week": "Championship"
+  },
+  {
+    "away": {
       "team": "TNS",
-      "score": 150.65
+      "score": 141.35
     },
     "home": {
       "team": "APL",
-      "score": 164.15
+      "score": 93.5
     },
-    "week": "Wk 14"
+    "week": "Rd 3"
   },
   {
     "away": {
-      "team": "STD",
-      "score": 91.5
-    },
-    "home": {
-      "team": "ALE",
-      "score": 131.85
-    },
-    "week": "Wk 14"
-  },
-  {
-    "away": {
-      "team": "THUR",
-      "score": 83.55
-    },
-    "home": {
-      "team": "LOD",
-      "score": 130.7
-    },
-    "week": "Wk 14"
-  },
-  {
-    "away": {
-      "team": "LOG",
-      "score": 95.65
-    },
-    "home": {
       "team": "DGR",
-      "score": 101.45
+      "score": 105.5
     },
-    "week": "Wk 14"
+    "home": {
+      "team": "THUR",
+      "score": 101.15
+    },
+    "week": "Rd 3"
   },
   {
     "away": {
       "team": "BIGD",
-      "score": 97.7
+      "score": 106.9
+    },
+    "home": {
+      "team": "ALE",
+      "score": 93.1
+    },
+    "week": "Rd 3"
+  },
+  {
+    "away": {
+      "team": "STD",
+      "score": 93.05
     },
     "home": {
       "team": "IS",
-      "score": 93.5
+      "score": 86.85
     },
-    "week": "Wk 14"
+    "week": "Turd Burglar"
   }
 ]

@@ -82,5 +82,11 @@
     "team": "American Craft Brewers",
     "nickname": "Brewers",
     "abbr": "ALE"
+  },
+  {
+    "year": 2021,
+    "team": "The Courtesy Flush",
+    "nickname": "Flush",
+    "abbr": "LOG"
   }
 ]

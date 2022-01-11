@@ -669,5 +669,27 @@
     },
     "year": 2021,
     "week": "11"
+  },
+  {
+    "score": 53.3,
+    "team": {
+      "name": "Muffville Womb Raiders",
+      "nickname": "Raiders",
+      "abbr": "STD",
+      "org": "STD"
+    },
+    "year": 2021,
+    "week": "Rd 2"
+  },
+  {
+    "score": 56.65,
+    "team": {
+      "name": "Island Strong",
+      "nickname": "Strong",
+      "abbr": "IS",
+      "org": "IS"
+    },
+    "year": 2021,
+    "week": "Rd 2"
   }
 ]

@@ -136,6 +136,15 @@
         "playoffs": true,
         "ptsFor": 1572.95,
         "ptsAgainst": 1438.75
+      },
+      {
+        "year": 2021,
+        "wins": 10,
+        "losses": 4,
+        "rank": 8,
+        "playoffs": true,
+        "ptsFor": 1617.3,
+        "ptsAgainst": 1429.15
       }
     ]
   },
@@ -276,6 +285,15 @@
         "playoffs": true,
         "ptsFor": 1431.95,
         "ptsAgainst": 1342.05
+      },
+      {
+        "year": 2021,
+        "wins": 6,
+        "losses": 8,
+        "rank": 2,
+        "playoffs": true,
+        "ptsFor": 1436.05,
+        "ptsAgainst": 1456.5
       }
     ]
   },
@@ -416,6 +434,15 @@
         "playoffs": true,
         "ptsFor": 1351.25,
         "ptsAgainst": 1293.15
+      },
+      {
+        "year": 2021,
+        "wins": 6,
+        "losses": 8,
+        "rank": 1,
+        "playoffs": true,
+        "ptsFor": 1335.9,
+        "ptsAgainst": 1419.5
       }
     ]
   },
@@ -556,6 +583,15 @@
         "playoffs": false,
         "ptsFor": 1278.15,
         "ptsAgainst": 1520.85
+      },
+      {
+        "year": 2021,
+        "wins": 7,
+        "losses": 7,
+        "rank": 5,
+        "playoffs": true,
+        "ptsFor": 1438.8,
+        "ptsAgainst": 1491.55
       }
     ]
   },
@@ -699,6 +735,15 @@
         "playoffs": false,
         "ptsFor": 1169.4,
         "ptsAgainst": 1361.4
+      },
+      {
+        "year": 2021,
+        "wins": 3,
+        "losses": 11,
+        "rank": 10,
+        "playoffs": false,
+        "ptsFor": 1267.5,
+        "ptsAgainst": 1626.25
       }
     ]
   },
@@ -839,6 +884,15 @@
         "playoffs": true,
         "ptsFor": 1397.5,
         "ptsAgainst": 1418.75
+      },
+      {
+        "year": 2021,
+        "wins": 8,
+        "losses": 6,
+        "rank": 3,
+        "playoffs": true,
+        "ptsFor": 1648.15,
+        "ptsAgainst": 1545.4
       }
     ]
   },
@@ -970,6 +1024,15 @@
         "playoffs": true,
         "ptsFor": 1556.0,
         "ptsAgainst": 1255.95
+      },
+      {
+        "year": 2021,
+        "wins": 8,
+        "losses": 6,
+        "rank": 7,
+        "playoffs": true,
+        "ptsFor": 1665.35,
+        "ptsAgainst": 1485.2
       }
     ]
   },
@@ -1101,6 +1164,15 @@
         "playoffs": true,
         "ptsFor": 1486.25,
         "ptsAgainst": 1456.35
+      },
+      {
+        "year": 2021,
+        "wins": 4,
+        "losses": 10,
+        "rank": 9,
+        "playoffs": false,
+        "ptsFor": 1319.0,
+        "ptsAgainst": 1422.1
       }
     ]
   },
@@ -1232,6 +1304,15 @@
         "playoffs": true,
         "ptsFor": 1254.95,
         "ptsAgainst": 1409.75
+      },
+      {
+        "year": 2021,
+        "wins": 10,
+        "losses": 4,
+        "rank": 4,
+        "playoffs": true,
+        "ptsFor": 1613.95,
+        "ptsAgainst": 1496.5
       }
     ]
   },
@@ -1363,6 +1444,15 @@
         "playoffs": true,
         "ptsFor": 1296.8,
         "ptsAgainst": 1298.2
+      },
+      {
+        "year": 2021,
+        "wins": 8,
+        "losses": 6,
+        "rank": 6,
+        "playoffs": true,
+        "ptsFor": 1457.65,
+        "ptsAgainst": 1427.5
       }
     ]
   },
