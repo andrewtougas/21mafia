@@ -1,6 +1,6 @@
 {
   "name": "21mafia",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "homepage": "https://github.com/andrewtougas/21mafia",
   "description": "Web app for tracking history and stats of the 21 Mafia Fantasy Football League",
   "author": "Andrew Tougas <andrewhtougas@gmail.com> (http://andrewtougas.com)",
@@ -8,8 +8,10 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "build-githubpages": "vue-cli-service build --mode githubpages",
     "lint": "vue-cli-service lint",
-    "deploy": "sh deploy.sh"
+    "deploy": "sh deploy.sh",
+    "deploy-githubpages": "sh deploy-githubpages.sh"
   },
   "dependencies": {
     "lodash": "^4.17.19",

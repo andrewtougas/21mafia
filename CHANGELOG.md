@@ -1,6 +1,15 @@
 # CHANGELOG
 All notable changes to this project will be documented in this file. Note: the first version tracked here is 2.0.0. Previous versions were before the project's migration to Vue and were not tracked.
 
+## [2.0.2] - 2022-01-10
+#### Added:
+
+  - Ability to deploy production build to live server via NPM script
+
+#### Changed:
+
+  - NPM script functionality for deploying production build to Github Pages
+
 ## [2.0.1] - 2021-10-09
 #### Added:
 
